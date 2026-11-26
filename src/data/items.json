@@ -1,0 +1,1671 @@
+[
+ {
+  "id": "popeyes-cruncher-classic",
+  "brandId": "popeyes",
+  "name": "Cruncher Classic",
+  "category": "burger",
+  "portionLabel": "150 g",
+  "image": "./images/items/popeyes-cruncher-classic.webp",
+  "nutrition": {
+   "kcal": 456,
+   "kj": 1905,
+   "proteinG": 17,
+   "fatG": 27,
+   "carbsG": 35,
+   "sugarsG": 7,
+   "saltG": 2
+  },
+  "source": {
+   "sourceId": "popeyes-pl-official",
+   "tableRowName": "Kanapka Cruncher (Mild)",
+   "verified": "official",
+   "note": "Tabela Popeyes Polska 11.08.2026 (nowa tabela PLK EU 03.11.2026 podaje 377,5 kcal)"
+  }
+ },
+ {
+  "id": "popeyes-cruncher-spicy",
+  "brandId": "popeyes",
+  "name": "Cruncher Spicy",
+  "category": "burger",
+  "portionLabel": "150 g",
+  "image": "./images/items/popeyes-cruncher-spicy.webp",
+  "nutrition": {
+   "kcal": 462,
+   "kj": 1933,
+   "proteinG": 17,
+   "fatG": 28,
+   "carbsG": 35,
+   "saltG": 2.2
+  },
+  "source": {
+   "sourceId": "popeyes-pl-official",
+   "tableRowName": "Kanapka Cruncher (Spicy)",
+   "verified": "official",
+   "note": "Tabela Popeyes Polska 11.08.2026 (nowa tabela PLK EU 03.11.2026 podaje 402,5 kcal)"
+  }
+ },
+ {
+  "id": "popeyes-cruncher-bbq",
+  "brandId": "popeyes",
+  "name": "Cruncher BBQ",
+  "category": "burger",
+  "portionLabel": "150 g",
+  "image": "./images/items/popeyes-cruncher-bbq.webp",
+  "nutrition": {
+   "kcal": 365,
+   "kj": 1527,
+   "proteinG": 16,
+   "fatG": 14,
+   "carbsG": 44,
+   "saltG": 2.1
+  },
+  "source": {
+   "sourceId": "popeyes-pl-official",
+   "tableRowName": "Kanapka Cruncher (BBQ)",
+   "verified": "official",
+   "note": "Tabela Popeyes Polska 11.08.2026"
+  }
+ },
+ {
+  "id": "popeyes-mini-wrap-classic",
+  "brandId": "popeyes",
+  "name": "Mini Wrap Classic",
+  "category": "wrap",
+  "portionLabel": "120 g",
+  "image": "./images/items/popeyes-mini-wrap-classic.webp",
+  "nutrition": {
+   "kcal": 388,
+   "kj": 1616,
+   "proteinG": 14,
+   "fatG": 24,
+   "carbsG": 32,
+   "sugarsG": 1.3,
+   "saltG": 1.6,
+   "satFatG": 4
+  },
+  "source": {
+   "sourceId": "popeyes-pl-official",
+   "tableRowName": "Mini Wrap Classic/Classic Mini Wrap",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "popeyes-mini-wrap-spicy",
+  "brandId": "popeyes",
+  "name": "Mini Wrap Spicy",
+  "category": "wrap",
+  "portionLabel": "120 g",
+  "image": "./images/items/popeyes-mini-wrap-spicy.webp",
+  "nutrition": {
+   "kcal": 394,
+   "kj": 1642,
+   "proteinG": 14,
+   "fatG": 25,
+   "carbsG": 32,
+   "sugarsG": 2.5,
+   "saltG": 1.7,
+   "satFatG": 4.3
+  },
+  "source": {
+   "sourceId": "popeyes-pl-official",
+   "tableRowName": "Mini Wrap Pikantny/Spicy Mini Wrap",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "popeyes-mini-wrap-bbq",
+  "brandId": "popeyes",
+  "name": "Mini Wrap BBQ",
+  "category": "wrap",
+  "portionLabel": "127 g",
+  "image": "./images/items/popeyes-mini-wrap-bbq.webp",
+  "nutrition": {
+   "kcal": 324,
+   "kj": 1356,
+   "proteinG": 14,
+   "fatG": 13,
+   "carbsG": 36,
+   "sugarsG": 6.7,
+   "saltG": 1.8
+  },
+  "source": {
+   "sourceId": "popeyes-pl-official",
+   "tableRowName": "Mini Wrap BBQ",
+   "verified": "official",
+   "note": "Tabela Popeyes Polska 11.08.2026"
+  }
+ },
+ {
+  "id": "popeyes-frytki-classic-male",
+  "brandId": "popeyes",
+  "name": "Małe Frytki Classic",
+  "category": "fries",
+  "portionLabel": "80 g",
+  "image": "./images/items/popeyes-frytki-classic-male.webp",
+  "nutrition": {
+   "kcal": 254,
+   "kj": 1063,
+   "proteinG": 3.3,
+   "fatG": 12,
+   "carbsG": 34,
+   "sugarsG": 0.8,
+   "saltG": 1.6,
+   "satFatG": 2.6
+  },
+  "source": {
+   "sourceId": "popeyes-pl-official",
+   "tableRowName": "Frytki Classic Średnie/Fries Classic Medium",
+   "verified": "derived",
+   "note": "Porcja 80 g przeliczona z oficjalnej tabeli Popeyes (317 kcal / 100 g)"
+  }
+ },
+ {
+  "id": "popeyes-frytki-cajun-male",
+  "brandId": "popeyes",
+  "name": "Małe Frytki Cajun",
+  "category": "fries",
+  "portionLabel": "80 g",
+  "image": "./images/items/popeyes-frytki-cajun-male.webp",
+  "nutrition": {
+   "kcal": 239,
+   "kj": 1002,
+   "proteinG": 2.8,
+   "fatG": 11,
+   "carbsG": 33,
+   "sugarsG": 0.7,
+   "saltG": 1.7,
+   "satFatG": 3.0
+  },
+  "source": {
+   "sourceId": "popeyes-pl-official",
+   "tableRowName": "Frytki z przyprawą Cajun Średnie/Cajun Fries Medium",
+   "verified": "derived",
+   "note": "Porcja 80 g przeliczona z oficjalnej tabeli Popeyes (299 kcal / 100 g)"
+  }
+ },
+ {
+  "id": "popeyes-lipton-green-tea-330",
+  "brandId": "popeyes",
+  "name": "Lipton Green Tea 330 ml",
+  "category": "drink",
+  "portionLabel": "330 ml",
+  "image": "./images/items/popeyes-lipton-green-tea-330.webp",
+  "nutrition": {
+   "kcal": 59,
+   "kj": 254,
+   "proteinG": 0,
+   "fatG": 0,
+   "carbsG": 14.5,
+   "sugarsG": 14.2,
+   "saltG": 0.03
+  },
+  "source": {
+   "sourceId": "popeyes-pl-official",
+   "tableRowName": "Lipton Green Tea Wielka Dolewka/ refill (18 kcal/100ml)",
+   "verified": "derived",
+   "note": "Przeliczone dla puszki 330 ml z oficjalnej tabeli Popeyes (18 kcal/100 ml)"
+  }
+ },
+ {
+  "id": "popeyes-lemoniada-mala",
+  "brandId": "popeyes",
+  "name": "Mała Lemoniada",
+  "category": "drink",
+  "portionLabel": "200 ml",
+  "image": "./images/items/popeyes-lemoniada-mala.webp",
+  "nutrition": {
+   "kcal": 36,
+   "kj": 150,
+   "proteinG": 0,
+   "fatG": 0,
+   "carbsG": 9,
+   "sugarsG": 9,
+   "saltG": 0.07,
+   "satFatG": 0
+  },
+  "source": {
+   "sourceId": "popeyes-pl-official",
+   "tableRowName": "Mała Lemoniada/Small Lemonade",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "popeyes-lemoniada-truskawkowa-mala",
+  "brandId": "popeyes",
+  "name": "Mała Lemoniada Truskawkowa",
+  "category": "drink",
+  "portionLabel": "200 ml",
+  "image": "./images/items/popeyes-lemoniada-truskawkowa-mala.webp",
+  "nutrition": {
+   "kcal": 68,
+   "kj": 292,
+   "proteinG": 0,
+   "fatG": 0,
+   "carbsG": 17,
+   "sugarsG": 16,
+   "saltG": 0.03,
+   "satFatG": 0
+  },
+  "source": {
+   "sourceId": "popeyes-pl-official",
+   "tableRowName": "Mała Lemoniada Truskawkowa/Small Strawberry Lemonade",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-cheeseburger",
+  "brandId": "mcdonalds",
+  "name": "Cheeseburger",
+  "category": "burger",
+  "portionLabel": "1 porcja",
+  "image": "./images/items/mcd-cheeseburger.jpg",
+  "nutrition": {
+   "kcal": 306,
+   "kj": 1283,
+   "proteinG": 16,
+   "fatG": 13,
+   "carbsG": 30,
+   "sugarsG": 7.3,
+   "saltG": 1.6,
+   "satFatG": 6.1
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "Cheeseburger",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-hamburger",
+  "brandId": "mcdonalds",
+  "name": "Hamburger",
+  "category": "burger",
+  "portionLabel": "1 porcja",
+  "image": "./images/items/mcd-hamburger.jpg",
+  "nutrition": {
+   "kcal": 258,
+   "kj": 1085,
+   "proteinG": 13,
+   "fatG": 9.5,
+   "carbsG": 29,
+   "sugarsG": 6.8,
+   "saltG": 1.1,
+   "satFatG": 3.7
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "Hamburger",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-jalapeno-burger",
+  "brandId": "mcdonalds",
+  "name": "Jalapeño Burger",
+  "category": "burger",
+  "portionLabel": "1 porcja",
+  "image": "./images/items/mcd-jalapeno-burger.jpg",
+  "nutrition": {
+   "kcal": 303,
+   "kj": 1269,
+   "proteinG": 14,
+   "fatG": 14,
+   "carbsG": 28,
+   "sugarsG": 5.9,
+   "saltG": 1.47,
+   "satFatG": 4.1
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "Jalapeño Burger",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-chikker",
+  "brandId": "mcdonalds",
+  "name": "Chikker®",
+  "category": "burger",
+  "portionLabel": "1 porcja",
+  "image": "./images/items/mcd-chikker.jpg",
+  "nutrition": {
+   "kcal": 407,
+   "kj": 1705,
+   "proteinG": 14,
+   "fatG": 18,
+   "carbsG": 45,
+   "sugarsG": 5.4,
+   "saltG": 1.6,
+   "satFatG": 1.9
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "Chikker®",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-red-chikker",
+  "brandId": "mcdonalds",
+  "name": "Red Chikker®",
+  "category": "burger",
+  "portionLabel": "1 porcja",
+  "image": "./images/items/mcd-red-chikker.jpg",
+  "nutrition": {
+   "kcal": 342,
+   "kj": 1438,
+   "proteinG": 14,
+   "fatG": 9.3,
+   "carbsG": 49,
+   "sugarsG": 8.5,
+   "saltG": 2,
+   "satFatG": 1.2
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "Red Chikker®",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-snack-wrap",
+  "brandId": "mcdonalds",
+  "name": "Snack Wrap",
+  "category": "wrap",
+  "portionLabel": "1 porcja",
+  "image": "./images/items/mcd-snack-wrap.jpg",
+  "nutrition": {
+   "kcal": 294,
+   "kj": 1232,
+   "proteinG": 12,
+   "fatG": 11,
+   "carbsG": 36,
+   "sugarsG": 3.8,
+   "saltG": 1.57,
+   "satFatG": 1.8
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "Snack Wrap",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-mcnuggets-4",
+  "brandId": "mcdonalds",
+  "name": "4 McNuggets®",
+  "category": "chicken",
+  "portionLabel": "4 szt.",
+  "image": "./images/items/mcd-mcnuggets-4.jpg",
+  "nutrition": {
+   "kcal": 175,
+   "kj": 732,
+   "proteinG": 11,
+   "fatG": 8.3,
+   "carbsG": 14,
+   "sugarsG": 0.5,
+   "saltG": 0.81,
+   "satFatG": 1
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "4 McNuggets®",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-frytki-male",
+  "brandId": "mcdonalds",
+  "name": "Frytki Małe",
+  "category": "fries",
+  "portionLabel": "1 porcja",
+  "image": "./images/items/mcd-frytki-male.jpg",
+  "nutrition": {
+   "kcal": 229,
+   "kj": 960,
+   "proteinG": 2.9,
+   "fatG": 11,
+   "carbsG": 29,
+   "sugarsG": 0.2,
+   "saltG": 0.53,
+   "satFatG": 1.1
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "Frytki Małe",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-frytki-srednie",
+  "brandId": "mcdonalds",
+  "name": "Frytki Średnie",
+  "category": "fries",
+  "portionLabel": "1 porcja",
+  "image": "./images/items/mcd-frytki-srednie.jpg",
+  "nutrition": {
+   "kcal": 327,
+   "kj": 1368,
+   "proteinG": 4.1,
+   "fatG": 15,
+   "carbsG": 41,
+   "sugarsG": 0.3,
+   "saltG": 0.76,
+   "satFatG": 1.5
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "Frytki Średnie",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-coca-cola-025",
+  "brandId": "mcdonalds",
+  "name": "Coca-Cola® 0,25 l",
+  "category": "drink",
+  "portionLabel": "250 ml",
+  "image": "./images/items/mcd-napoj-maly.jpg",
+  "nutrition": {
+   "kcal": 109,
+   "kj": 467,
+   "proteinG": 0,
+   "fatG": 0,
+   "carbsG": 26,
+   "sugarsG": 28,
+   "saltG": 0,
+   "satFatG": 0
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "Coca-Cola® 0,25l",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-coca-cola-040",
+  "brandId": "mcdonalds",
+  "name": "Coca-Cola® 0,4 l",
+  "category": "drink",
+  "portionLabel": "400 ml",
+  "image": "./images/items/mcd-coca-cola-040.jpg",
+  "nutrition": {
+   "kcal": 174,
+   "kj": 748,
+   "proteinG": 0,
+   "fatG": 0,
+   "carbsG": 44,
+   "sugarsG": 44,
+   "saltG": 0,
+   "satFatG": 0
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "Coca-Cola® 0,4l",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-coca-cola-zero-040",
+  "brandId": "mcdonalds",
+  "name": "Coca-Cola® Zero 0,4 l",
+  "category": "drink",
+  "portionLabel": "400 ml",
+  "image": "./images/items/mcd-coca-cola-zero-040.jpg",
+  "nutrition": {
+   "kcal": 2,
+   "kj": 5,
+   "proteinG": 0,
+   "fatG": 0,
+   "carbsG": 0,
+   "sugarsG": 0,
+   "saltG": 0.12,
+   "satFatG": 0
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "Coca-Cola® Zero (0,25l, 0,4l, 0,5l)**",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-fanta-040",
+  "brandId": "mcdonalds",
+  "name": "Fanta® 0,4 l",
+  "category": "drink",
+  "portionLabel": "400 ml",
+  "image": "./images/items/mcd-fanta-040.jpg",
+  "nutrition": {
+   "kcal": 174,
+   "kj": 739,
+   "proteinG": 0,
+   "fatG": 0,
+   "carbsG": 43,
+   "sugarsG": 43,
+   "saltG": 0,
+   "satFatG": 0
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "Fanta® 0,4l",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-sprite-040",
+  "brandId": "mcdonalds",
+  "name": "Sprite® 0,4 l",
+  "category": "drink",
+  "portionLabel": "400 ml",
+  "image": "./images/items/mcd-sprite-040.jpg",
+  "nutrition": {
+   "kcal": 148,
+   "kj": 632,
+   "proteinG": 0,
+   "fatG": 0,
+   "carbsG": 36,
+   "sugarsG": 36,
+   "saltG": 0.16,
+   "satFatG": 0
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "Sprite® 0,4l",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-lipton-040",
+  "brandId": "mcdonalds",
+  "name": "Lipton® Ice Tea Lemon 0,4 l",
+  "category": "drink",
+  "portionLabel": "400 ml",
+  "image": "./images/items/mcd-lipton-040.jpg",
+  "nutrition": {
+   "kcal": 72,
+   "kj": 308,
+   "proteinG": 2,
+   "fatG": 2,
+   "carbsG": 18,
+   "sugarsG": 17,
+   "saltG": 0.08,
+   "satFatG": 0.4
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "Lipton® Ice Tea Lemon 0,4l",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-woda-050",
+  "brandId": "mcdonalds",
+  "name": "Woda niegazowana 0,5 l",
+  "category": "drink",
+  "portionLabel": "500 ml",
+  "image": "./images/items/mcd-woda-050.jpg",
+  "nutrition": {
+   "kcal": 0,
+   "kj": 0,
+   "proteinG": 0,
+   "fatG": 0,
+   "carbsG": 0,
+   "sugarsG": 0,
+   "saltG": 0,
+   "satFatG": 0
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "Woda gazowana / Woda niegazowana 0,5l",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-mcchicken",
+  "brandId": "mcdonalds",
+  "name": "McChicken®",
+  "category": "burger",
+  "portionLabel": "1 porcja",
+  "image": "./images/items/mcd-mcchicken.jpg",
+  "nutrition": {
+   "kcal": 433,
+   "kj": 1816,
+   "proteinG": 21,
+   "fatG": 17,
+   "carbsG": 48,
+   "sugarsG": 8,
+   "saltG": 1.92,
+   "satFatG": 2.1
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "McChicken®",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-mcdouble",
+  "brandId": "mcdonalds",
+  "name": "McDouble®",
+  "category": "burger",
+  "portionLabel": "1 porcja",
+  "image": "./images/items/mcd-mcdouble.jpg",
+  "nutrition": {
+   "kcal": 408,
+   "kj": 1705,
+   "proteinG": 24,
+   "fatG": 21,
+   "carbsG": 30,
+   "sugarsG": 7.3,
+   "saltG": 2,
+   "satFatG": 9.5
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "McDouble®",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-big-mac",
+  "brandId": "mcdonalds",
+  "name": "Big Mac®",
+  "category": "burger",
+  "portionLabel": "1 porcja",
+  "image": "./images/items/mcd-big-mac.jpg",
+  "nutrition": {
+   "kcal": 544,
+   "kj": 2273,
+   "proteinG": 27,
+   "fatG": 29,
+   "carbsG": 42,
+   "sugarsG": 8.8,
+   "saltG": 2.3,
+   "satFatG": 10
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "Big Mac®",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-mcroyal",
+  "brandId": "mcdonalds",
+  "name": "McRoyal®",
+  "category": "burger",
+  "portionLabel": "1 porcja",
+  "image": "./images/items/mcd-mcroyal.jpg",
+  "nutrition": {
+   "kcal": 547,
+   "kj": 2287,
+   "proteinG": 33,
+   "fatG": 29,
+   "carbsG": 38,
+   "sugarsG": 10,
+   "saltG": 2.6,
+   "satFatG": 14
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "McRoyal®",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-wiesmac",
+  "brandId": "mcdonalds",
+  "name": "WieśMac®",
+  "category": "burger",
+  "portionLabel": "1 porcja",
+  "image": "./images/items/mcd-wiesmac.jpg",
+  "nutrition": {
+   "kcal": 607,
+   "kj": 2529,
+   "proteinG": 31,
+   "fatG": 38,
+   "carbsG": 35,
+   "sugarsG": 8.2,
+   "saltG": 1.8,
+   "satFatG": 12
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "WieśMac®",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-mcwrap-klasyczny",
+  "brandId": "mcdonalds",
+  "name": "McWrap® Klasyczny",
+  "category": "wrap",
+  "portionLabel": "1 porcja",
+  "image": "./images/items/mcd-mcwrap-klasyczny.jpg",
+  "nutrition": {
+   "kcal": 572,
+   "kj": 2397,
+   "proteinG": 25,
+   "fatG": 23,
+   "carbsG": 64,
+   "sugarsG": 9.8,
+   "saltG": 3.5,
+   "satFatG": 5.6
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "McWrap® Chrupiący Klasyczny",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-mcnuggets-6",
+  "brandId": "mcdonalds",
+  "name": "6 McNuggets®",
+  "category": "chicken",
+  "portionLabel": "6 szt.",
+  "image": "./images/items/mcd-mcnuggets-6.jpg",
+  "nutrition": {
+   "kcal": 262,
+   "kj": 1098,
+   "proteinG": 16,
+   "fatG": 12,
+   "carbsG": 21,
+   "sugarsG": 0.8,
+   "saltG": 1.2,
+   "satFatG": 1.5
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "6 McNuggets®",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-mcmuffin-twarozek",
+  "brandId": "mcdonalds",
+  "name": "McMuffin® Twarożek i Rzodkiewka",
+  "category": "burger",
+  "portionLabel": "1 porcja",
+  "nutrition": {
+   "kcal": 275,
+   "kj": 1148,
+   "proteinG": 8.9,
+   "fatG": 14,
+   "carbsG": 26,
+   "sugarsG": 3.4,
+   "saltG": 1.2,
+   "satFatG": 9.7
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "McMuffin® Twarożek i Rzodkiewka",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-kawa-czarna-mala",
+  "brandId": "mcdonalds",
+  "name": "Kawa czarna mała",
+  "category": "drink",
+  "portionLabel": "1 porcja",
+  "nutrition": {
+   "kcal": 2,
+   "kj": 10,
+   "proteinG": 0.4,
+   "fatG": 0,
+   "carbsG": 0.2,
+   "sugarsG": 0.2,
+   "saltG": 0,
+   "satFatG": 0
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "Kawa Czarna Mała",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-kawa-z-mlekiem-mala",
+  "brandId": "mcdonalds",
+  "name": "Kawa z mlekiem mała",
+  "category": "drink",
+  "portionLabel": "1 porcja",
+  "nutrition": {
+   "kcal": 51,
+   "kj": 215,
+   "proteinG": 2.9,
+   "fatG": 2.6,
+   "carbsG": 4,
+   "sugarsG": 4,
+   "saltG": 0.08,
+   "satFatG": 1.7
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "Kawa z Mlekiem Mała",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-croissant-maslany",
+  "brandId": "mcdonalds",
+  "name": "Croissant maślany",
+  "category": "dessert",
+  "portionLabel": "1 porcja",
+  "nutrition": {
+   "kcal": 224,
+   "kj": 935,
+   "proteinG": 3.8,
+   "fatG": 12,
+   "carbsG": 24,
+   "sugarsG": 3.5,
+   "saltG": 0.59,
+   "satFatG": 8
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "Croissant maślany",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-herbata",
+  "brandId": "mcdonalds",
+  "name": "Herbata",
+  "category": "drink",
+  "portionLabel": "1 porcja",
+  "nutrition": {
+   "kcal": 0,
+   "kj": 0,
+   "proteinG": 0,
+   "fatG": 0,
+   "carbsG": 0,
+   "sugarsG": 0,
+   "saltG": 0,
+   "satFatG": 0
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "Herbata",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-lipton-050",
+  "brandId": "mcdonalds",
+  "name": "Lipton® Ice Tea Lemon 0,5 l",
+  "category": "drink",
+  "portionLabel": "1 porcja",
+  "nutrition": {
+   "kcal": 90,
+   "kj": 385,
+   "proteinG": 2.5,
+   "fatG": 2.5,
+   "carbsG": 22,
+   "sugarsG": 22,
+   "saltG": 0.1,
+   "satFatG": 0.5
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "Lipton® Ice Tea Lemon 0,5l",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-frytki-duze",
+  "brandId": "mcdonalds",
+  "name": "Frytki Duże",
+  "category": "fries",
+  "portionLabel": "1 porcja",
+  "nutrition": {
+   "kcal": 430,
+   "kj": 1800,
+   "proteinG": 5.4,
+   "fatG": 20,
+   "carbsG": 54,
+   "sugarsG": 0.4,
+   "saltG": 1,
+   "satFatG": 2
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "Frytki Duże",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-cappuccino-sredni",
+  "brandId": "mcdonalds",
+  "name": "Cappuccino średnie",
+  "category": "drink",
+  "portionLabel": "1 porcja",
+  "nutrition": {
+   "kcal": 115,
+   "kj": 484,
+   "proteinG": 6.2,
+   "fatG": 6.1,
+   "carbsG": 9,
+   "sugarsG": 9,
+   "saltG": 0.19,
+   "satFatG": 4
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "Cappuccino Średnie",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-mctost-ser",
+  "brandId": "mcdonalds",
+  "name": "McTost® Ser",
+  "category": "burger",
+  "portionLabel": "1 porcja",
+  "nutrition": {
+   "kcal": 189,
+   "kj": 796,
+   "proteinG": 7.4,
+   "fatG": 5.5,
+   "carbsG": 27,
+   "sugarsG": 4.9,
+   "saltG": 1,
+   "satFatG": 2.8
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "McTost® Ser",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-mctost-bekon-ser",
+  "brandId": "mcdonalds",
+  "name": "McTost® Bekon i Ser",
+  "category": "burger",
+  "portionLabel": "1 porcja",
+  "nutrition": {
+   "kcal": 272,
+   "kj": 1142,
+   "proteinG": 13,
+   "fatG": 12,
+   "carbsG": 28,
+   "sugarsG": 5.5,
+   "saltG": 1.7,
+   "satFatG": 6.4
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "McTost® Bekon i Ser",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "mcd-mctost-pieczarki-ser",
+  "brandId": "mcdonalds",
+  "name": "McTost® Pieczarki i Ser",
+  "category": "burger",
+  "portionLabel": "1 porcja",
+  "nutrition": {
+   "kcal": 285,
+   "kj": 1194,
+   "proteinG": 11,
+   "fatG": 14,
+   "carbsG": 28,
+   "sugarsG": 5.6,
+   "saltG": 1.6,
+   "satFatG": 8.2
+  },
+  "source": {
+   "sourceId": "mcdonalds-pl-2026-11",
+   "tableRowName": "McTost® Pieczarki i Ser",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "kfc-mega-pocket",
+  "brandId": "kfc",
+  "name": "Mega Pocket",
+  "category": "wrap",
+  "portionLabel": "287 g",
+  "nutrition": {
+   "kcal": 715,
+   "kj": 2993,
+   "proteinG": 30,
+   "fatG": 37,
+   "carbsG": 62,
+   "sugarsG": 5.2,
+   "saltG": 5.57,
+   "satFatG": 4.9
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Mega pocket",
+   "verified": "official"
+  },
+  "image": "./images/items/kfc-mega-pocket.png"
+ },
+ {
+  "id": "kfc-hot-wings",
+  "brandId": "kfc",
+  "name": "Hot Wings (1 szt.)",
+  "category": "chicken",
+  "portionLabel": "36 g",
+  "nutrition": {
+   "kcal": 114,
+   "kj": 477,
+   "proteinG": 7,
+   "fatG": 7.4,
+   "carbsG": 5,
+   "sugarsG": 0.2,
+   "saltG": 0.87,
+   "satFatG": 1.4
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Hot Wings",
+   "verified": "official"
+  },
+  "image": "./images/items/kfc-hot-wings.png"
+ },
+ {
+  "id": "kfc-hot-spicy-strips",
+  "brandId": "kfc",
+  "name": "Hot & Spicy Strips (1 szt.)",
+  "category": "chicken",
+  "portionLabel": "32 g",
+  "nutrition": {
+   "kcal": 92,
+   "kj": 384,
+   "proteinG": 6.6,
+   "fatG": 5,
+   "carbsG": 3.2,
+   "sugarsG": 0.1,
+   "saltG": 1.33,
+   "satFatG": 1.1
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Hot & Spicy Strips",
+   "verified": "official"
+  },
+  "image": "./images/items/kfc-hot-spicy-strips.png"
+ },
+ {
+  "id": "kfc-grander",
+  "brandId": "kfc",
+  "name": "Grander Burger",
+  "category": "burger",
+  "portionLabel": "300 g",
+  "nutrition": {
+   "kcal": 756,
+   "kj": 3162,
+   "proteinG": 37,
+   "fatG": 38,
+   "carbsG": 61,
+   "sugarsG": 15,
+   "saltG": 6.54,
+   "satFatG": 8.4
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Grander",
+   "verified": "official"
+  },
+  "image": "./images/items/kfc-grander.png"
+ },
+ {
+  "id": "kfc-zinger",
+  "brandId": "kfc",
+  "name": "Zinger Burger",
+  "category": "burger",
+  "portionLabel": "170 g",
+  "nutrition": {
+   "kcal": 445,
+   "kj": 1863,
+   "proteinG": 25,
+   "fatG": 22,
+   "carbsG": 36,
+   "sugarsG": 4.8,
+   "saltG": 3.03,
+   "satFatG": 3.2
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Zinger",
+   "verified": "official"
+  },
+  "image": "./images/items/kfc-zinger.png"
+ },
+ {
+  "id": "kfc-longer",
+  "brandId": "kfc",
+  "name": "Longer",
+  "category": "burger",
+  "portionLabel": "127 g",
+  "nutrition": {
+   "kcal": 309,
+   "kj": 1300,
+   "proteinG": 15,
+   "fatG": 8.1,
+   "carbsG": 43,
+   "sugarsG": 9.4,
+   "saltG": 2.4,
+   "satFatG": 1
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Longer",
+   "verified": "official"
+  },
+  "image": "./images/items/kfc-longer.png"
+ },
+ {
+  "id": "kfc-cheeseburger",
+  "brandId": "kfc",
+  "name": "CheeseBurger",
+  "category": "burger",
+  "portionLabel": "125 g",
+  "nutrition": {
+   "kcal": 309,
+   "kj": 1298,
+   "proteinG": 17,
+   "fatG": 9,
+   "carbsG": 40,
+   "sugarsG": 8.8,
+   "saltG": 2.6,
+   "satFatG": 2.8
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "CheeseBurger",
+   "verified": "official"
+  },
+  "image": "./images/items/kfc-cheeseburger.png"
+ },
+ {
+  "id": "kfc-twister-classic",
+  "brandId": "kfc",
+  "name": "Twister Classic",
+  "category": "wrap",
+  "portionLabel": "226 g",
+  "nutrition": {
+   "kcal": 579,
+   "kj": 2420,
+   "proteinG": 23,
+   "fatG": 30,
+   "carbsG": 57,
+   "sugarsG": 3.5,
+   "saltG": 2.6,
+   "satFatG": 2.1
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Twister Classic",
+   "verified": "official"
+  },
+  "image": "./images/items/kfc-twister-classic.png"
+ },
+ {
+  "id": "kfc-itwist",
+  "brandId": "kfc",
+  "name": "iTwist",
+  "category": "wrap",
+  "portionLabel": "132 g",
+  "nutrition": {
+   "kcal": 350,
+   "kj": 1463,
+   "proteinG": 11,
+   "fatG": 18,
+   "carbsG": 38,
+   "sugarsG": 1.1,
+   "saltG": 1.56,
+   "satFatG": 2
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "iTwist",
+   "verified": "official"
+  },
+  "image": "./images/items/kfc-itwist.png"
+ },
+ {
+  "id": "kfc-qurrito",
+  "brandId": "kfc",
+  "name": "Qurrito",
+  "category": "wrap",
+  "portionLabel": "230 g",
+  "nutrition": {
+   "kcal": 692,
+   "kj": 2893,
+   "proteinG": 35,
+   "fatG": 38,
+   "carbsG": 53,
+   "sugarsG": 11,
+   "saltG": 3.73,
+   "satFatG": 14
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Qurrito",
+   "verified": "official"
+  },
+  "image": "./images/items/kfc-qurrito.png"
+ },
+ {
+  "id": "kfc-wrapper-kentucky-gold",
+  "brandId": "kfc",
+  "name": "Wrapper Kentucky Gold",
+  "category": "wrap",
+  "portionLabel": "350 g",
+  "nutrition": {
+   "kcal": 1197,
+   "kj": 4995,
+   "proteinG": 42,
+   "fatG": 77,
+   "carbsG": 91,
+   "sugarsG": 16,
+   "saltG": 7.35,
+   "satFatG": 15
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Wrapper Kentucky Gold",
+   "verified": "official"
+  },
+  "image": "./images/items/kfc-wrapper-kentucky-gold.png"
+ },
+ {
+  "id": "kfc-poke-california-sun",
+  "brandId": "kfc",
+  "name": "Poke Bowl California Sun z ryżem i bitesami",
+  "category": "chicken",
+  "portionLabel": "362 g",
+  "nutrition": {
+   "kcal": 478,
+   "kj": 1998,
+   "proteinG": 18,
+   "fatG": 21,
+   "carbsG": 58,
+   "sugarsG": 5,
+   "saltG": 2.28,
+   "satFatG": 3.4
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Poke Bowl California Sun z ryżem i bitesami",
+   "verified": "official"
+  },
+  "image": "./images/items/kfc-poke-california-sun.png"
+ },
+ {
+  "id": "kfc-poke-sweetest-chilli",
+  "brandId": "kfc",
+  "name": "Poke Bowl Sweetest Chilli z ryżem i bitesami",
+  "category": "chicken",
+  "portionLabel": "332 g",
+  "nutrition": {
+   "kcal": 435,
+   "kj": 1819,
+   "proteinG": 23,
+   "fatG": 16,
+   "carbsG": 52,
+   "sugarsG": 4,
+   "saltG": 1.49,
+   "satFatG": 2.4
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Poke Bowl Sweetest Chilli z ryżem i bitesami",
+   "verified": "official"
+  },
+  "image": "./images/items/kfc-poke-sweetest-chilli.png"
+ },
+ {
+  "id": "kfc-frytki",
+  "brandId": "kfc",
+  "name": "Frytki",
+  "category": "fries",
+  "portionLabel": "80 g",
+  "nutrition": {
+   "kcal": 202,
+   "kj": 844,
+   "proteinG": 3,
+   "fatG": 8.4,
+   "carbsG": 30,
+   "sugarsG": 0.2,
+   "saltG": 0.51,
+   "satFatG": 0.7
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Frytki",
+   "verified": "official"
+  },
+  "image": "./images/items/kfc-frytki.png"
+ },
+ {
+  "id": "kfc-frytki-duze",
+  "brandId": "kfc",
+  "name": "Frytki duże",
+  "category": "fries",
+  "portionLabel": "115 g",
+  "nutrition": {
+   "kcal": 290,
+   "kj": 1213,
+   "proteinG": 4.1,
+   "fatG": 12,
+   "carbsG": 43,
+   "sugarsG": 0.3,
+   "saltG": 0.74,
+   "satFatG": 1
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Frytki duże",
+   "verified": "official"
+  },
+  "image": "./images/items/kfc-frytki-duze.png"
+ },
+ {
+  "id": "kfc-frytki-kubelek",
+  "brandId": "kfc",
+  "name": "Frytki kubełek",
+  "category": "fries",
+  "portionLabel": "240 g",
+  "nutrition": {
+   "kcal": 605,
+   "kj": 2532,
+   "proteinG": 8.6,
+   "fatG": 26,
+   "carbsG": 89,
+   "sugarsG": 0.7,
+   "saltG": 1.54,
+   "satFatG": 2.2
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Frytki kubełek",
+   "verified": "official"
+  },
+  "image": "./images/items/kfc-frytki-kubelek.png"
+ },
+ {
+  "id": "kfc-sos-kentucky-gold-dip",
+  "brandId": "kfc",
+  "name": "Sos Kentucky Gold dip",
+  "category": "sauce",
+  "portionLabel": "25 g",
+  "nutrition": {
+   "kcal": 108,
+   "kj": 446,
+   "proteinG": 0.2,
+   "fatG": 9,
+   "carbsG": 7,
+   "sugarsG": 5.3,
+   "saltG": 0.45,
+   "satFatG": 0.7
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Sos Kentucky Gold dip",
+   "verified": "official"
+  },
+  "image": "./images/items/kfc-sos-kentucky-gold-dip.png"
+ },
+ {
+  "id": "kfc-sos-slodkie-chilli-dip",
+  "brandId": "kfc",
+  "name": "Sos słodkie chilli dip",
+  "category": "sauce",
+  "portionLabel": "25 g",
+  "nutrition": {
+   "kcal": 43,
+   "kj": 182,
+   "proteinG": 0.1,
+   "fatG": 0,
+   "carbsG": 11,
+   "sugarsG": 8.3,
+   "saltG": 0.2,
+   "satFatG": 0
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Sos orientalny ( Słodkie chilli) dip",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "kfc-churros-bez-sosu",
+  "brandId": "kfc",
+  "name": "Churros bez sosu (1 szt.)",
+  "category": "dessert",
+  "portionLabel": "40 g",
+  "nutrition": {
+   "kcal": 132,
+   "kj": 554,
+   "proteinG": 2.6,
+   "fatG": 5,
+   "carbsG": 18,
+   "sugarsG": 3,
+   "saltG": 0.54,
+   "satFatG": 0.6
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Churros bez sosu",
+   "verified": "official"
+  }
+ },
+ {
+  "id": "kfc-pepsi-wielka-dolewka",
+  "brandId": "kfc",
+  "name": "Pepsi Wielka Dolewka",
+  "category": "drink",
+  "portionLabel": "350 g",
+  "nutrition": {
+   "kcal": 98,
+   "kj": 420,
+   "proteinG": 0,
+   "fatG": 0,
+   "carbsG": 25,
+   "sugarsG": 25,
+   "saltG": 0.35,
+   "satFatG": 0
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Pepsi Wielka Dolewka",
+   "verified": "official"
+  },
+  "image": "./images/items/kfc-pepsi-wielka-dolewka.png"
+ },
+ {
+  "id": "kfc-espresso-50",
+  "brandId": "kfc",
+  "name": "Espresso 50 ml",
+  "category": "drink",
+  "portionLabel": "50 g",
+  "nutrition": {
+   "kcal": 1,
+   "kj": 4,
+   "proteinG": 0,
+   "fatG": 0,
+   "carbsG": 0.1,
+   "sugarsG": 0,
+   "saltG": 0,
+   "satFatG": 0
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Espresso 50 ml (bez cukru)",
+   "verified": "official"
+  },
+  "image": "./images/items/kfc-espresso-50.png"
+ },
+ {
+  "id": "kfc-americano-200",
+  "brandId": "kfc",
+  "name": "Americano 200 ml",
+  "category": "drink",
+  "portionLabel": "200 g",
+  "nutrition": {
+   "kcal": 4,
+   "kj": 17,
+   "proteinG": 0,
+   "fatG": 0,
+   "carbsG": 0.5,
+   "sugarsG": 0,
+   "saltG": 0,
+   "satFatG": 0
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Americano 200 ml (bez cukru)",
+   "verified": "official"
+  },
+  "image": "./images/items/kfc-americano-200.png"
+ },
+ {
+  "id": "kfc-nozka-kentucky",
+  "brandId": "kfc",
+  "name": "Nóżka Kentucky",
+  "category": "chicken",
+  "portionLabel": "69 g",
+  "nutrition": {
+   "kcal": 169,
+   "kj": 708,
+   "proteinG": 15,
+   "fatG": 9.5,
+   "carbsG": 6.1,
+   "sugarsG": 0.3,
+   "saltG": 1.41,
+   "satFatG": 1.8
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Nóżka",
+   "verified": "official"
+  },
+  "image": "./images/items/kfc-nozka-kentucky.png"
+ },
+ {
+  "id": "kfc-hot-spicy-bites-90g",
+  "brandId": "kfc",
+  "name": "Hot & Spicy Bites (90 g)",
+  "category": "chicken",
+  "portionLabel": "90 g",
+  "nutrition": {
+   "kcal": 291,
+   "kj": 1212,
+   "proteinG": 17,
+   "fatG": 18,
+   "carbsG": 14,
+   "sugarsG": 0.5,
+   "saltG": 1.6,
+   "satFatG": 4.2
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Hot & Spicy Bites",
+   "verified": "official"
+  },
+  "image": "./images/items/kfc-hot-spicy-bites-90g.png"
+ },
+ {
+  "id": "kfc-hot-spicy-bites-45g",
+  "brandId": "kfc",
+  "name": "Hot & Spicy Bites (45 g)",
+  "category": "chicken",
+  "portionLabel": "45 g",
+  "nutrition": {
+   "kcal": 146,
+   "kj": 606,
+   "proteinG": 8.5,
+   "fatG": 9,
+   "carbsG": 7,
+   "sugarsG": 0.3,
+   "saltG": 0.8,
+   "satFatG": 2.1
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Hot & Spicy Bites",
+   "verified": "derived",
+   "note": "Porcja 45 g wyliczona proporcjonalnie z oficjalnej tabeli KFC (Hot & Spicy Bites 90 g = 291 kcal)"
+  },
+  "image": "./images/items/kfc-hot-spicy-bites-45g.png"
+ },
+ {
+  "id": "kfc-hot-spicy-bites-120g",
+  "brandId": "kfc",
+  "name": "Hot & Spicy Bites (120 g)",
+  "category": "chicken",
+  "portionLabel": "120 g",
+  "nutrition": {
+   "kcal": 388,
+   "kj": 1616,
+   "proteinG": 22.7,
+   "fatG": 24,
+   "carbsG": 18.7,
+   "sugarsG": 0.7,
+   "saltG": 2.1,
+   "satFatG": 5.6
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Hot & Spicy Bites",
+   "verified": "derived",
+   "note": "Porcja 120 g wyliczona proporcjonalnie z oficjalnej tabeli KFC (Hot & Spicy Bites 90 g = 291 kcal)"
+  },
+  "image": "./images/items/kfc-hot-spicy-bites-120g.png"
+ },
+ {
+  "id": "kfc-shake-waniliowy-180",
+  "brandId": "kfc",
+  "name": "Shake Mocno waniliowy 180 ml",
+  "category": "dessert",
+  "portionLabel": "180 g",
+  "nutrition": {
+   "kcal": 216,
+   "kj": 945,
+   "proteinG": 5.6,
+   "fatG": 6.3,
+   "carbsG": 36,
+   "sugarsG": 29,
+   "saltG": 0.23,
+   "satFatG": 4.5
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Shake Mocno waniliowy",
+   "verified": "official",
+   "note": "kupon nie podaje smaku — przyjęto waniliowy (najniższy kcal/100 ml); inne smaki 279-355 kcal"
+  },
+  "image": "./images/items/kfc-shake-waniliowy-180.png"
+ },
+ {
+  "id": "kfc-grander-kentucky-gold",
+  "brandId": "kfc",
+  "name": "Grander Kentucky Gold",
+  "category": "burger",
+  "portionLabel": "1 porcja (320 g)",
+  "image": "./images/items/kfc-grander.png",
+  "nutrition": {
+   "kcal": 842,
+   "kj": 3520,
+   "proteinG": 36,
+   "fatG": 45,
+   "carbsG": 78,
+   "sugarsG": 14,
+   "saltG": 4.99,
+   "satFatG": 8
+  },
+  "source": {
+   "sourceId": "kfc-pl-official",
+   "tableRowName": "Grander Kentucky Gold",
+   "verified": "official"
+  }
+ }
+]

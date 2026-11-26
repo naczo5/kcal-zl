@@ -1,0 +1,21 @@
+node_modules/
+dist/
+.DS_Store
+*.local
+*.tsbuildinfo
+
+# local tooling and temporary files (not committed)
+local-config.json
+scripts/*.py
+scripts/__pycache__/
+__pycache__/
+*.pyc
+src/data/sources/mcdonalds-pl-offers.json
+src/data/sources/mcdonalds-pl-restaurants.json
+src/data/sources/kfc-pl-web*.json
+src/data/sources/*-prices.json
+src/data/sources/*-menumcd.json
+src/data/menu-items.json
+fis*.json
+rc*.json
+h1.txt

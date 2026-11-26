@@ -1,0 +1,16 @@
+{
+  "name": "kcal/zł — Indeks fast food",
+  "short_name": "kcal/zł",
+  "description": "Porównanie zestawów, ofert stałych i kuponów fast food w Polsce według przelicznika kcal/zł.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111318",
+  "icons": [
+    {
+      "src": "./assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

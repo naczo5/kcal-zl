@@ -1,0 +1,26 @@
+[
+  {
+    "id": "popeyes",
+    "name": "Popeyes Polska",
+    "shortName": "Popeyes",
+    "accentColor": "#FF6B00",
+    "officialSite": "https://popeyeschicken.pl/",
+    "nutritionSourceId": "popeyes-pl-official"
+  },
+  {
+    "id": "mcdonalds",
+    "name": "McDonald's Polska",
+    "shortName": "McDonald's",
+    "accentColor": "#DA291C",
+    "officialSite": "https://mcdonalds.pl/",
+    "nutritionSourceId": "mcdonalds-pl-2026-11"
+  },
+  {
+    "id": "kfc",
+    "name": "KFC Polska",
+    "shortName": "KFC",
+    "accentColor": "#A3080C",
+    "officialSite": "https://kfc.pl/",
+    "nutritionSourceId": "kfc-pl-official"
+  }
+]

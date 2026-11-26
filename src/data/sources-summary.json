@@ -1,0 +1,30 @@
+[
+  {
+    "id": "kfc-pl-official",
+    "brandId": "kfc",
+    "kind": "nutrition-official",
+    "title": "KFC Polska — Tabela wartości odżywczych (AmRest, stan 25.11.2025)",
+    "sourceUrl": "https://kfc.pl/wartosci-odzywcze",
+    "fetchedAt": "2026-11-26",
+    "itemCount": 193
+  },
+  {
+    "id": "mcdonalds-pl-2026-11",
+    "brandId": "mcdonalds",
+    "kind": "nutrition-official",
+    "title": "McDonald's Polska — Tabela wartości odżywczych",
+    "sourceUrl": "https://mcdonalds.pl/zamow-i-odbierz-tabela-wartosci-odzywczych/",
+    "fetchedAt": "2026-11-26",
+    "itemCount": 213
+  },
+  {
+    "id": "popeyes-pl-official",
+    "brandId": "popeyes",
+    "kind": "nutrition-official",
+    "title": "Popeyes Polska — Tabela wartości odżywcze + uzupełnienie PL 2026-08-11",
+    "sourceUrl": "https://popeyeschicken.pl/nutrition",
+    "secondarySourceUrl": "https://popeyeschicken.hu/app/uploads/2026/11/PLK_Tapanyag-Allergen_tablazat_2xA4_20261103-.pdf",
+    "fetchedAt": "2026-11-26",
+    "itemCount": 128
+  }
+]

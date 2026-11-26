@@ -1,0 +1,2398 @@
+[
+ {
+  "id": "popeyes-cruncher-deal",
+  "brandId": "popeyes",
+  "name": "Cruncher Deal",
+  "offerType": "regular",
+  "pricePln": 10.95,
+  "priceNote": "Cena z menu restauracji (w niektórych okresach/lokalach 9,95–10,95 zł)",
+  "description": "Wybrana kanapka Cruncher lub Mini Wrap (Classic, Spicy albo BBQ) z małymi frytkami lub napojem.",
+  "image": "./images/offers/popeyes-cruncher-deal.webp",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Menu Popeyes Polska + cena od użytkownika",
+   "url": "https://popeyeschicken.pl/",
+   "priceVerifiedBy": "user"
+  },
+  "slots": [
+   {
+    "id": "sandwich",
+    "label": "Kanapka lub Mini Wrap",
+    "defaultItemId": "popeyes-cruncher-classic",
+    "options": [
+     {
+      "itemId": "popeyes-cruncher-classic",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "popeyes-cruncher-spicy",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "popeyes-cruncher-bbq",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "popeyes-mini-wrap-classic",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "popeyes-mini-wrap-spicy",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "popeyes-mini-wrap-bbq",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "side-or-drink",
+    "label": "Dodatek lub napój w cenie",
+    "defaultItemId": "popeyes-frytki-classic-male",
+    "options": [
+     {
+      "itemId": "popeyes-frytki-classic-male",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "popeyes-lipton-green-tea-330",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "popeyes-mega-crunch-deal",
+  "brandId": "popeyes",
+  "name": "Mega Crunch Deal",
+  "offerType": "regular",
+  "pricePln": 19.95,
+  "priceNote": "Standardowa cena w restauracji",
+  "description": "Dwie kanapki Cruncher lub dwa Mini Wrapy (można miksować smaki), małe frytki i mała lemoniada.",
+  "image": "./images/offers/popeyes-mega-crunch-deal.webp",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Menu Popeyes Polska",
+   "url": "https://popeyeschicken.pl/",
+   "priceVerifiedBy": "menu"
+  },
+  "slots": [
+   {
+    "id": "sandwich-1",
+    "label": "Kanapka / Mini Wrap 1",
+    "defaultItemId": "popeyes-cruncher-classic",
+    "options": [
+     {
+      "itemId": "popeyes-cruncher-classic",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "popeyes-cruncher-spicy",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "popeyes-cruncher-bbq",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "popeyes-mini-wrap-classic",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "popeyes-mini-wrap-spicy",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "popeyes-mini-wrap-bbq",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "sandwich-2",
+    "label": "Kanapka / Mini Wrap 2",
+    "defaultItemId": "popeyes-cruncher-classic",
+    "options": [
+     {
+      "itemId": "popeyes-cruncher-classic",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "popeyes-cruncher-spicy",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "popeyes-cruncher-bbq",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "popeyes-mini-wrap-classic",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "popeyes-mini-wrap-spicy",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "popeyes-mini-wrap-bbq",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "side",
+    "label": "Dodatek",
+    "defaultItemId": "popeyes-frytki-classic-male",
+    "options": [
+     {
+      "itemId": "popeyes-frytki-classic-male",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "drink",
+    "label": "Mała lemoniada",
+    "defaultItemId": "popeyes-lemoniada-mala",
+    "options": [
+     {
+      "itemId": "popeyes-lemoniada-mala",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "popeyes-lemoniada-truskawkowa-mala",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mcd-supercombo",
+  "brandId": "mcdonalds",
+  "name": "SuperCombo",
+  "offerType": "regular",
+  "pricePln": 20,
+  "priceNote": "Maksymalna cena wg regulaminu z 25.02.2026 (w części lokali 19,00 zł)",
+  "description": "Dwa małe burgery (albo 4 McNuggets® + mały burger), średnie frytki i średni napój.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Regulamin Super Combo (mcdonalds.pl)",
+   "url": "https://mcdonalds.pl/regulaminy/",
+   "priceVerifiedBy": "regulamin"
+  },
+  "slots": [
+   {
+    "id": "main-1",
+    "label": "Pierwszy produkt",
+    "defaultItemId": "mcd-cheeseburger",
+    "options": [
+     {
+      "itemId": "mcd-cheeseburger",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-hamburger",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-jalapeno-burger",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-chikker",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-red-chikker",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-mcnuggets-4",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "main-2",
+    "label": "Drugi burger",
+    "defaultItemId": "mcd-cheeseburger",
+    "options": [
+     {
+      "itemId": "mcd-cheeseburger",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-hamburger",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-jalapeno-burger",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-chikker",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-red-chikker",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "fries",
+    "label": "Frytki",
+    "defaultItemId": "mcd-frytki-srednie",
+    "options": [
+     {
+      "itemId": "mcd-frytki-srednie",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "drink",
+    "label": "Średni napój",
+    "defaultItemId": "mcd-coca-cola-040",
+    "options": [
+     {
+      "itemId": "mcd-coca-cola-040",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-fanta-040",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-sprite-040",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-lipton-040",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-coca-cola-zero-040",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-woda-050",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mcd-2foru",
+  "brandId": "mcdonalds",
+  "name": "2forU®",
+  "offerType": "regular",
+  "pricePln": 10.1,
+  "priceNote": "Cena w aplikacji McDonald’s: 10,10 zł (regulamin z 22.04.2026 podaje maks. 9,90 zł; powiększone 11,90 zł — ceny mogą różnić się między lokalami).",
+  "description": "Wybrany klasyczny burger lub Snack Wrap oraz małe frytki lub mały napój (opcja powiększona +2,00 zł).",
+  "image": "./images/offers/mcd-2foru.png",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Aplikacja McDonald’s / regulamin mcdonalds.pl",
+   "url": "https://mcdonalds.pl/nasze-menu/2-for-u/",
+   "priceVerifiedBy": "user"
+  },
+  "slots": [
+   {
+    "id": "main",
+    "label": "Produkt główny",
+    "defaultItemId": "mcd-cheeseburger",
+    "options": [
+     {
+      "itemId": "mcd-cheeseburger",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-hamburger",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-jalapeno-burger",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-chikker",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-red-chikker",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-snack-wrap",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "side",
+    "label": "Dodatek",
+    "defaultItemId": "mcd-frytki-male",
+    "options": [
+     {
+      "itemId": "mcd-frytki-male",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-coca-cola-025",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-frytki-srednie",
+      "priceDeltaPln": 2,
+      "badge": "Powiększone +2 zł"
+     },
+     {
+      "itemId": "mcd-coca-cola-040",
+      "priceDeltaPln": 2,
+      "badge": "Powiększone +2 zł"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mcd-supercombo-extra",
+  "brandId": "mcdonalds",
+  "name": "SuperCombo Extra",
+  "offerType": "regular",
+  "pricePln": 26,
+  "priceNote": "Maksymalna cena wg regulaminu z 25.02.2026",
+  "description": "McChicken® lub McDouble®, mały burger albo 4 McNuggets®, średnie frytki i średni napój.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Regulamin Super Combo Extra (mcdonalds.pl)",
+   "url": "https://mcdonalds.pl/regulaminy/",
+   "priceVerifiedBy": "regulamin"
+  },
+  "slots": [
+   {
+    "id": "extra-main",
+    "label": "Większy burger",
+    "defaultItemId": "mcd-mcchicken",
+    "options": [
+     {
+      "itemId": "mcd-mcchicken",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-mcdouble",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "second",
+    "label": "Drugi mały produkt",
+    "defaultItemId": "mcd-cheeseburger",
+    "options": [
+     {
+      "itemId": "mcd-cheeseburger",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-hamburger",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-jalapeno-burger",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-chikker",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-red-chikker",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-mcnuggets-4",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "fries",
+    "label": "Frytki",
+    "defaultItemId": "mcd-frytki-srednie",
+    "options": [
+     {
+      "itemId": "mcd-frytki-srednie",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "drink",
+    "label": "Średni napój",
+    "defaultItemId": "mcd-coca-cola-040",
+    "options": [
+     {
+      "itemId": "mcd-coca-cola-040",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-fanta-040",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-sprite-040",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-lipton-040",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-coca-cola-zero-040",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-woda-050",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mcd-snack-wrap-solo",
+  "brandId": "mcdonalds",
+  "name": "Snack Wrap (solo)",
+  "offerType": "regular",
+  "pricePln": 7.5,
+  "priceNote": "Maksymalna cena poza zestawem w restauracji wg regulaminu z 22.04.2026",
+  "description": "Pojedynczy Snack Wrap z kurczakiem poza zestawem.",
+  "image": "./images/items/mcd-snack-wrap.jpg",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Regulamin Snack Wrap (mcdonalds.pl)",
+   "url": "https://mcdonalds.pl/regulaminy/",
+   "priceVerifiedBy": "regulamin"
+  },
+  "slots": [
+   {
+    "id": "wrap",
+    "label": "Produkt",
+    "defaultItemId": "mcd-snack-wrap",
+    "options": [
+     {
+      "itemId": "mcd-snack-wrap",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mcd-family-zestaw-2",
+  "brandId": "mcdonalds",
+  "name": "Oferty Family: McZestaw + 6 McNuggets®",
+  "offerType": "regular",
+  "pricePln": 39,
+  "priceNote": "Maksymalna cena wg regulaminu z 16.12.2025",
+  "description": "Wybrany McZestaw (średnie frytki i średni napój) powiększony o porcję 6 McNuggets®.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Regulamin Oferty Family (mcdonalds.pl)",
+   "url": "https://mcdonalds.pl/regulaminy/",
+   "priceVerifiedBy": "regulamin"
+  },
+  "slots": [
+   {
+    "id": "mczestaw-main",
+    "label": "Danie główne McZestawu",
+    "defaultItemId": "mcd-big-mac",
+    "options": [
+     {
+      "itemId": "mcd-big-mac",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-mcroyal",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-mcchicken",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-wiesmac",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-mcwrap-klasyczny",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-mcnuggets-6",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "mczestaw-fries",
+    "label": "Dodatek McZestawu",
+    "defaultItemId": "mcd-frytki-srednie",
+    "options": [
+     {
+      "itemId": "mcd-frytki-srednie",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "mczestaw-drink",
+    "label": "Napój McZestawu",
+    "defaultItemId": "mcd-coca-cola-040",
+    "options": [
+     {
+      "itemId": "mcd-coca-cola-040",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-fanta-040",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-sprite-040",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-lipton-040",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-coca-cola-zero-040",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-woda-050",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "extra-nuggets",
+    "label": "Dodatkowe McNuggets®",
+    "defaultItemId": "mcd-mcnuggets-6",
+    "options": [
+     {
+      "itemId": "mcd-mcnuggets-6",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mcd-kupon-mcmuffin-twarozek-kawa",
+  "brandId": "mcdonalds",
+  "name": "McMuffin® Twarożek i Rzodkiewka + mała kawa",
+  "offerType": "coupon",
+  "pricePln": 12.5,
+  "priceNote": "Kupon z aplikacji McDonald's (dostępność może być ograniczona czasowo).",
+  "description": "McMuffin Twarożek i Rzodkiewka z małą kawą czarną albo z mlekiem.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Aplikacja McDonald's",
+   "priceVerifiedBy": "user"
+  },
+  "slots": [
+   {
+    "id": "sandwich",
+    "label": "Kanapka",
+    "defaultItemId": "mcd-mcmuffin-twarozek",
+    "options": [
+     {
+      "itemId": "mcd-mcmuffin-twarozek",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "drink",
+    "label": "Kawa",
+    "defaultItemId": "mcd-kawa-czarna-mala",
+    "options": [
+     {
+      "itemId": "mcd-kawa-czarna-mala",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-kawa-z-mlekiem-mala",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mcd-kupon-2x-mctost",
+  "brandId": "mcdonalds",
+  "name": "2x Dowolny McTost",
+  "offerType": "coupon",
+  "pricePln": 12.5,
+  "priceNote": "Kupon z aplikacji McDonald's (dostępność może być ograniczona czasowo).",
+  "description": "Dwa dowolne McTosty (Ser, Bekon i Ser albo Pieczarki i Ser).",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Aplikacja McDonald's",
+   "priceVerifiedBy": "user"
+  },
+  "slots": [
+   {
+    "id": "mctost",
+    "label": "McTost",
+    "defaultItemId": "mcd-mctost-ser",
+    "options": [
+     {
+      "itemId": "mcd-mctost-ser",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-mctost-bekon-ser",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-mctost-pieczarki-ser",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 2
+   }
+  ]
+ },
+ {
+  "id": "mcd-kupon-croissant-kawa",
+  "brandId": "mcdonalds",
+  "name": "Croissant maślany + mała kawa albo herbata",
+  "offerType": "coupon",
+  "pricePln": 10.9,
+  "priceNote": "Kupon z aplikacji McDonald's.",
+  "description": "Croissant maślany z małą kawą czarną, kawą z mlekiem albo herbatą.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Aplikacja McDonald's",
+   "priceVerifiedBy": "user"
+  },
+  "slots": [
+   {
+    "id": "croissant",
+    "label": "Croissant",
+    "defaultItemId": "mcd-croissant-maslany",
+    "options": [
+     {
+      "itemId": "mcd-croissant-maslany",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "drink",
+    "label": "Napój",
+    "defaultItemId": "mcd-kawa-czarna-mala",
+    "options": [
+     {
+      "itemId": "mcd-kawa-czarna-mala",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-kawa-z-mlekiem-mala",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "mcd-herbata",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mcd-kupon-lipton-duzy",
+  "brandId": "mcdonalds",
+  "name": "Duży napój Lipton® Ice Tea",
+  "offerType": "coupon",
+  "pricePln": 4.9,
+  "priceNote": "Kupon z aplikacji McDonald's.",
+  "description": "Duży napój Lipton Ice Tea Lemon (0,5 l).",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Aplikacja McDonald's",
+   "priceVerifiedBy": "user"
+  },
+  "slots": [
+   {
+    "id": "drink",
+    "label": "Napój",
+    "defaultItemId": "mcd-lipton-050",
+    "options": [
+     {
+      "itemId": "mcd-lipton-050",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mcd-kupon-frytki-duze",
+  "brandId": "mcdonalds",
+  "name": "Duże frytki",
+  "offerType": "coupon",
+  "pricePln": 7.9,
+  "priceNote": "Kupon z aplikacji McDonald's.",
+  "description": "Duże frytki z kuponu.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Aplikacja McDonald's",
+   "priceVerifiedBy": "user"
+  },
+  "slots": [
+   {
+    "id": "fries",
+    "label": "Frytki",
+    "defaultItemId": "mcd-frytki-duze",
+    "options": [
+     {
+      "itemId": "mcd-frytki-duze",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mcd-kupon-cappuccino-sredni",
+  "brandId": "mcdonalds",
+  "name": "Średnie Cappuccino",
+  "offerType": "coupon",
+  "pricePln": 7.9,
+  "priceNote": "Kupon z aplikacji McDonald's.",
+  "description": "Średnie cappuccino.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Aplikacja McDonald's",
+   "priceVerifiedBy": "user"
+  },
+  "slots": [
+   {
+    "id": "drink",
+    "label": "Napój",
+    "defaultItemId": "mcd-cappuccino-sredni",
+    "options": [
+     {
+      "itemId": "mcd-cappuccino-sredni",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "mcd-kupon-mczestaw-6-mcnuggets",
+  "brandId": "mcdonalds",
+  "name": "McZestaw Kurczak McNuggets® 6 szt.",
+  "offerType": "coupon",
+  "pricePln": 19.5,
+  "priceNote": "Kupon z aplikacji McDonald's (skład: 6 McNuggets, średnie frytki, Coca-Cola Zero 0,4 l).",
+  "description": "McZestaw z 6 McNuggets, frytkami i napojem.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Aplikacja McDonald's",
+   "priceVerifiedBy": "user"
+  },
+  "slots": [
+   {
+    "id": "nuggets",
+    "label": "Nuggets",
+    "defaultItemId": "mcd-mcnuggets-6",
+    "options": [
+     {
+      "itemId": "mcd-mcnuggets-6",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "fries",
+    "label": "Frytki",
+    "defaultItemId": "mcd-frytki-srednie",
+    "options": [
+     {
+      "itemId": "mcd-frytki-srednie",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "drink",
+    "label": "Napój",
+    "defaultItemId": "mcd-coca-cola-zero-040",
+    "options": [
+     {
+      "itemId": "mcd-coca-cola-zero-040",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kfc-kupon-mega-pocket-hot-wings",
+  "brandId": "kfc",
+  "name": "Mega Pocket + 5x Hot Wings",
+  "offerType": "coupon",
+  "pricePln": 35,
+  "priceNote": "Kupon KFC Polska.",
+  "description": "Mega Pocket z pięcioma Hot Wings.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Aplikacja / kupony KFC Polska",
+   "priceVerifiedBy": "user"
+  },
+  "slots": [
+   {
+    "id": "main",
+    "label": "Pocket",
+    "defaultItemId": "kfc-mega-pocket",
+    "options": [
+     {
+      "itemId": "kfc-mega-pocket",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "wings",
+    "label": "Hot Wings",
+    "defaultItemId": "kfc-hot-wings",
+    "options": [
+     {
+      "itemId": "kfc-hot-wings",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 5
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-mega-pocket-hot-wings.png"
+ },
+ {
+  "id": "kfc-kupon-2x-grander-frytki-duze",
+  "brandId": "kfc",
+  "name": "2x Grander Burger + duże frytki",
+  "offerType": "coupon",
+  "pricePln": 39.99,
+  "priceNote": "Kupon KFC Polska.",
+  "description": "Dwa Grander Burger z dużymi frytkami.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Kupony KFC Polska",
+   "url": "https://kfc.pl/kupony",
+   "priceVerifiedBy": "menu"
+  },
+  "slots": [
+   {
+    "id": "burger",
+    "label": "Burger",
+    "defaultItemId": "kfc-grander",
+    "options": [
+     {
+      "itemId": "kfc-grander",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 2
+   },
+   {
+    "id": "fries",
+    "label": "Frytki",
+    "defaultItemId": "kfc-frytki-duze",
+    "options": [
+     {
+      "itemId": "kfc-frytki-duze",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-2x-grander-frytki-duze.png"
+ },
+ {
+  "id": "kfc-kupon-2x-qurrito-6-strips",
+  "brandId": "kfc",
+  "name": "2x Qurrito + 6x Strips + 2x dip Kentucky Gold",
+  "offerType": "coupon",
+  "pricePln": 45.99,
+  "priceNote": "Kupon z aplikacji KFC.",
+  "description": "Dwa Qurrito, sześć Hot & Spicy Strips i dwa dipy.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Aplikacja / kupony KFC Polska",
+   "priceVerifiedBy": "user"
+  },
+  "slots": [
+   {
+    "id": "qurrito",
+    "label": "Qurrito",
+    "defaultItemId": "kfc-qurrito",
+    "options": [
+     {
+      "itemId": "kfc-qurrito",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 2
+   },
+   {
+    "id": "strips",
+    "label": "Strips",
+    "defaultItemId": "kfc-hot-spicy-strips",
+    "options": [
+     {
+      "itemId": "kfc-hot-spicy-strips",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 6
+   },
+   {
+    "id": "dip",
+    "label": "Dip",
+    "defaultItemId": "kfc-sos-kentucky-gold-dip",
+    "options": [
+     {
+      "itemId": "kfc-sos-kentucky-gold-dip",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "kfc-sos-slodkie-chilli-dip",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 2
+   }
+  ],
+  "image": "./images/items/kfc-qurrito.png"
+ },
+ {
+  "id": "kfc-kupon-2x-zinger-2x-twister-kubelek",
+  "brandId": "kfc",
+  "name": "2x Zinger Burger + 2x Twister + kubełek frytek",
+  "offerType": "coupon",
+  "pricePln": 49.99,
+  "priceNote": "Kupon z aplikacji KFC.",
+  "description": "Dwa Zinger Burgery, dwa Twistery i kubełek frytek.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Aplikacja / kupony KFC Polska",
+   "priceVerifiedBy": "user"
+  },
+  "slots": [
+   {
+    "id": "zinger",
+    "label": "Zinger",
+    "defaultItemId": "kfc-zinger",
+    "options": [
+     {
+      "itemId": "kfc-zinger",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 2
+   },
+   {
+    "id": "twister",
+    "label": "Twister",
+    "defaultItemId": "kfc-twister-classic",
+    "options": [
+     {
+      "itemId": "kfc-twister-classic",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 2
+   },
+   {
+    "id": "fries",
+    "label": "Frytki",
+    "defaultItemId": "kfc-frytki-kubelek",
+    "options": [
+     {
+      "itemId": "kfc-frytki-kubelek",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/items/kfc-zinger.png"
+ },
+ {
+  "id": "kfc-kupon-2x-itwist-frytki",
+  "brandId": "kfc",
+  "name": "2x iTwist + frytki",
+  "offerType": "coupon",
+  "pricePln": 15,
+  "priceNote": "Kupon KFC Polska.",
+  "description": "Dwa iTwisty z frytkami.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Kupony KFC Polska",
+   "url": "https://kfc.pl/kupony",
+   "priceVerifiedBy": "menu"
+  },
+  "slots": [
+   {
+    "id": "itwist",
+    "label": "iTwist",
+    "defaultItemId": "kfc-itwist",
+    "options": [
+     {
+      "itemId": "kfc-itwist",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 2
+   },
+   {
+    "id": "fries",
+    "label": "Frytki",
+    "defaultItemId": "kfc-frytki",
+    "options": [
+     {
+      "itemId": "kfc-frytki",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-2x-itwist-frytki.png"
+ },
+ {
+  "id": "kfc-kupon-grander-2-strips-frytki",
+  "brandId": "kfc",
+  "name": "Grander Burger + 2x Strips + frytki",
+  "offerType": "coupon",
+  "pricePln": 25,
+  "priceNote": "Kupon KFC Polska.",
+  "description": "Grander Burger, dwa Hot & Spicy Strips i frytki.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Kupony KFC Polska",
+   "url": "https://kfc.pl/kupony",
+   "priceVerifiedBy": "menu"
+  },
+  "slots": [
+   {
+    "id": "burger",
+    "label": "Burger",
+    "defaultItemId": "kfc-grander",
+    "options": [
+     {
+      "itemId": "kfc-grander",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "strips",
+    "label": "Strips",
+    "defaultItemId": "kfc-hot-spicy-strips",
+    "options": [
+     {
+      "itemId": "kfc-hot-spicy-strips",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 2
+   },
+   {
+    "id": "fries",
+    "label": "Frytki",
+    "defaultItemId": "kfc-frytki",
+    "options": [
+     {
+      "itemId": "kfc-frytki",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-grander-2-strips-frytki.png"
+ },
+ {
+  "id": "kfc-kupon-kentucky-gold-wrapper-frytki",
+  "brandId": "kfc",
+  "name": "Kentucky Gold Wrapper + frytki",
+  "offerType": "coupon",
+  "pricePln": 22,
+  "priceNote": "Kupon z aplikacji KFC.",
+  "description": "Wrapper Kentucky Gold z frytkami.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Aplikacja / kupony KFC Polska",
+   "priceVerifiedBy": "user"
+  },
+  "slots": [
+   {
+    "id": "wrap",
+    "label": "Wrapper",
+    "defaultItemId": "kfc-wrapper-kentucky-gold",
+    "options": [
+     {
+      "itemId": "kfc-wrapper-kentucky-gold",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "fries",
+    "label": "Frytki",
+    "defaultItemId": "kfc-frytki",
+    "options": [
+     {
+      "itemId": "kfc-frytki",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-kentucky-gold-wrapper-frytki.png"
+ },
+ {
+  "id": "kfc-kupon-2x-longer",
+  "brandId": "kfc",
+  "name": "2x Longer",
+  "offerType": "coupon",
+  "pricePln": 10,
+  "priceNote": "Kupon KFC Polska.",
+  "description": "Dwa Longery.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Kupony KFC Polska",
+   "url": "https://kfc.pl/kupony",
+   "priceVerifiedBy": "menu"
+  },
+  "slots": [
+   {
+    "id": "longer",
+    "label": "Longer",
+    "defaultItemId": "kfc-longer",
+    "options": [
+     {
+      "itemId": "kfc-longer",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 2
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-2x-longer.png"
+ },
+ {
+  "id": "kfc-kupon-zinger-3-strips-dip",
+  "brandId": "kfc",
+  "name": "Zinger + 3x Strips + dip + refill",
+  "offerType": "coupon",
+  "pricePln": 28,
+  "priceNote": "Kupon z aplikacji KFC.",
+  "description": "Zinger, trzy Hot & Spicy Strips, dip i Pepsi Wielka Dolewka.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Aplikacja / kupony KFC Polska",
+   "priceVerifiedBy": "user"
+  },
+  "slots": [
+   {
+    "id": "burger",
+    "label": "Burger",
+    "defaultItemId": "kfc-zinger",
+    "options": [
+     {
+      "itemId": "kfc-zinger",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "strips",
+    "label": "Strips",
+    "defaultItemId": "kfc-hot-spicy-strips",
+    "options": [
+     {
+      "itemId": "kfc-hot-spicy-strips",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 3
+   },
+   {
+    "id": "dip",
+    "label": "Dip",
+    "defaultItemId": "kfc-sos-kentucky-gold-dip",
+    "options": [
+     {
+      "itemId": "kfc-sos-kentucky-gold-dip",
+      "priceDeltaPln": 0
+     },
+     {
+      "itemId": "kfc-sos-slodkie-chilli-dip",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "napoj",
+    "label": "Napój",
+    "defaultItemId": "kfc-pepsi-wielka-dolewka",
+    "options": [
+     {
+      "itemId": "kfc-pepsi-wielka-dolewka",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/items/kfc-zinger.png"
+ },
+ {
+  "id": "kfc-kupon-longer-5-hot-wings-pepsi",
+  "brandId": "kfc",
+  "name": "Longer + 5x Hot Wings + Wielka Dolewka",
+  "offerType": "coupon",
+  "pricePln": 20,
+  "priceNote": "Kupon z aplikacji KFC.",
+  "description": "Longer, pięć Hot Wings i Pepsi w Wielkiej Dolewce.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Aplikacja / kupony KFC Polska",
+   "priceVerifiedBy": "user"
+  },
+  "slots": [
+   {
+    "id": "longer",
+    "label": "Longer",
+    "defaultItemId": "kfc-longer",
+    "options": [
+     {
+      "itemId": "kfc-longer",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "wings",
+    "label": "Hot Wings",
+    "defaultItemId": "kfc-hot-wings",
+    "options": [
+     {
+      "itemId": "kfc-hot-wings",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 5
+   },
+   {
+    "id": "drink",
+    "label": "Napój",
+    "defaultItemId": "kfc-pepsi-wielka-dolewka",
+    "options": [
+     {
+      "itemId": "kfc-pepsi-wielka-dolewka",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-longer-5-hot-wings-pepsi.png"
+ },
+ {
+  "id": "kfc-kupon-qurrito-2-longer-frytki",
+  "brandId": "kfc",
+  "name": "Qurrito + 2x Longer + frytki",
+  "offerType": "coupon",
+  "pricePln": 30,
+  "priceNote": "Kupon z aplikacji KFC (frytki standardowe).",
+  "description": "Qurrito, dwa Longery i frytki.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Aplikacja / kupony KFC Polska",
+   "priceVerifiedBy": "user"
+  },
+  "slots": [
+   {
+    "id": "qurrito",
+    "label": "Qurrito",
+    "defaultItemId": "kfc-qurrito",
+    "options": [
+     {
+      "itemId": "kfc-qurrito",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "longer",
+    "label": "Longer",
+    "defaultItemId": "kfc-longer",
+    "options": [
+     {
+      "itemId": "kfc-longer",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 2
+   },
+   {
+    "id": "fries",
+    "label": "Frytki",
+    "defaultItemId": "kfc-frytki",
+    "options": [
+     {
+      "itemId": "kfc-frytki",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-qurrito-2-longer-frytki.png"
+ },
+ {
+  "id": "kfc-kupon-poke-california-refill",
+  "brandId": "kfc",
+  "name": "Poke California + refill",
+  "offerType": "coupon",
+  "pricePln": 22,
+  "priceNote": "Kupon z aplikacji KFC.",
+  "description": "Poke Bowl California Sun z ryżem i bitesami oraz Pepsi Wielka Dolewka.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Aplikacja / kupony KFC Polska",
+   "priceVerifiedBy": "user"
+  },
+  "slots": [
+   {
+    "id": "poke",
+    "label": "Poke",
+    "defaultItemId": "kfc-poke-california-sun",
+    "options": [
+     {
+      "itemId": "kfc-poke-california-sun",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "napoj",
+    "label": "Napój",
+    "defaultItemId": "kfc-pepsi-wielka-dolewka",
+    "options": [
+     {
+      "itemId": "kfc-pepsi-wielka-dolewka",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-poke-california-refill.png"
+ },
+ {
+  "id": "kfc-kupon-poke-sweet-chilli-refill",
+  "brandId": "kfc",
+  "name": "Poke Sweet Chilli + refill",
+  "offerType": "coupon",
+  "pricePln": 22,
+  "priceNote": "Kupon z aplikacji KFC.",
+  "description": "Poke Bowl Sweetest Chilli z ryżem i bitesami oraz Pepsi Wielka Dolewka.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Aplikacja / kupony KFC Polska",
+   "priceVerifiedBy": "user"
+  },
+  "slots": [
+   {
+    "id": "poke",
+    "label": "Poke",
+    "defaultItemId": "kfc-poke-sweetest-chilli",
+    "options": [
+     {
+      "itemId": "kfc-poke-sweetest-chilli",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "napoj",
+    "label": "Napój",
+    "defaultItemId": "kfc-pepsi-wielka-dolewka",
+    "options": [
+     {
+      "itemId": "kfc-pepsi-wielka-dolewka",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/items/kfc-poke-sweetest-chilli.png"
+ },
+ {
+  "id": "kfc-kupon-mala-kawa-5",
+  "brandId": "kfc",
+  "name": "Mała kawa za 5 zł",
+  "offerType": "coupon",
+  "pricePln": 5,
+  "priceNote": "Kupon z aplikacji KFC (espresso 50 ml).",
+  "description": "Mała kawa z kuponu.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Aplikacja / kupony KFC Polska",
+   "priceVerifiedBy": "user"
+  },
+  "slots": [
+   {
+    "id": "coffee",
+    "label": "Kawa",
+    "defaultItemId": "kfc-espresso-50",
+    "options": [
+     {
+      "itemId": "kfc-espresso-50",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/items/kfc-espresso-50.png"
+ },
+ {
+  "id": "kfc-kupon-3x-churros-kawa",
+  "brandId": "kfc",
+  "name": "3x Churros + kawa 200 ml",
+  "offerType": "coupon",
+  "pricePln": 10,
+  "priceNote": "Kupon z aplikacji KFC (kawa 200 ml jako Americano 200 ml).",
+  "description": "Trzy churros bez sosu i kawa 200 ml.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Aplikacja / kupony KFC Polska",
+   "priceVerifiedBy": "user"
+  },
+  "slots": [
+   {
+    "id": "churros",
+    "label": "Churros",
+    "defaultItemId": "kfc-churros-bez-sosu",
+    "options": [
+     {
+      "itemId": "kfc-churros-bez-sosu",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 3
+   },
+   {
+    "id": "coffee",
+    "label": "Kawa",
+    "defaultItemId": "kfc-americano-200",
+    "options": [
+     {
+      "itemId": "kfc-americano-200",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-3x-churros-kawa.png"
+ },
+ {
+  "id": "kfc-kupon-qurrito-frytki-refill",
+  "brandId": "kfc",
+  "name": "Qurrito + frytki + refill",
+  "offerType": "coupon",
+  "pricePln": 17,
+  "priceNote": "Kupon z aplikacji KFC.",
+  "description": "Qurrito, frytki oraz Pepsi Wielka Dolewka.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Aplikacja / kupony KFC Polska",
+   "priceVerifiedBy": "user"
+  },
+  "slots": [
+   {
+    "id": "qurrito",
+    "label": "Qurrito",
+    "defaultItemId": "kfc-qurrito",
+    "options": [
+     {
+      "itemId": "kfc-qurrito",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "fries",
+    "label": "Frytki",
+    "defaultItemId": "kfc-frytki",
+    "options": [
+     {
+      "itemId": "kfc-frytki",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "napoj",
+    "label": "Napój",
+    "defaultItemId": "kfc-pepsi-wielka-dolewka",
+    "options": [
+     {
+      "itemId": "kfc-pepsi-wielka-dolewka",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-qurrito-frytki-refill.png"
+ },
+ {
+  "id": "kfc-kupon-kubelek-miesiaca",
+  "brandId": "kfc",
+  "name": "Kubełek Miesiąca (4x Strips + 4x Hot Wings + 4x Nóżka + 2x Frytki)",
+  "offerType": "coupon",
+  "pricePln": 39,
+  "priceNote": "Kupon KFC Polska.",
+  "description": "Kubełek miesiąca: 4x Strips, 4x Hot Wings, 4x Nóżka Kentucky, 2x Frytki.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Kupony KFC Polska",
+   "url": "https://kfc.pl/kupony",
+   "priceVerifiedBy": "menu"
+  },
+  "slots": [
+   {
+    "id": "strips",
+    "label": "Strips",
+    "defaultItemId": "kfc-hot-spicy-strips",
+    "options": [
+     {
+      "itemId": "kfc-hot-spicy-strips",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 4
+   },
+   {
+    "id": "wings",
+    "label": "Hot Wings",
+    "defaultItemId": "kfc-hot-wings",
+    "options": [
+     {
+      "itemId": "kfc-hot-wings",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 4
+   },
+   {
+    "id": "nozka",
+    "label": "Nóżka",
+    "defaultItemId": "kfc-nozka-kentucky",
+    "options": [
+     {
+      "itemId": "kfc-nozka-kentucky",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 4
+   },
+   {
+    "id": "frytki",
+    "label": "Frytki",
+    "defaultItemId": "kfc-frytki",
+    "options": [
+     {
+      "itemId": "kfc-frytki",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 2
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-kubelek-miesiaca.png"
+ },
+ {
+  "id": "kfc-kupon-2-za-1-twister-menu",
+  "brandId": "kfc",
+  "name": "2 za 1 Twister Menu",
+  "offerType": "coupon",
+  "pricePln": 29.99,
+  "priceNote": "Kupon KFC Polska (Twister + frytki + napój × 2).",
+  "description": "Płacisz za jedno Twister Menu, dostajesz dwa.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Kupony KFC Polska",
+   "url": "https://kfc.pl/kupony",
+   "priceVerifiedBy": "menu"
+  },
+  "slots": [
+   {
+    "id": "twister",
+    "label": "Twister",
+    "defaultItemId": "kfc-twister-classic",
+    "options": [
+     {
+      "itemId": "kfc-twister-classic",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 2
+   },
+   {
+    "id": "frytki",
+    "label": "Frytki",
+    "defaultItemId": "kfc-frytki",
+    "options": [
+     {
+      "itemId": "kfc-frytki",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 2
+   },
+   {
+    "id": "napoj",
+    "label": "Napój",
+    "defaultItemId": "kfc-pepsi-wielka-dolewka",
+    "options": [
+     {
+      "itemId": "kfc-pepsi-wielka-dolewka",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 2
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-2-za-1-twister-menu.png"
+ },
+ {
+  "id": "kfc-kupon-kubelek-1-classic",
+  "brandId": "kfc",
+  "name": "Kubełek dla 1 osoby Classic",
+  "offerType": "coupon",
+  "pricePln": 14.95,
+  "priceNote": "Kupon KFC Polska.",
+  "description": "Nóżka Kentucky + 2x Hot Wings + Bites (min. 45 g) + frytki (min. 80 g).",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Kupony KFC Polska",
+   "url": "https://kfc.pl/kupony",
+   "priceVerifiedBy": "menu"
+  },
+  "slots": [
+   {
+    "id": "nozka",
+    "label": "Nóżka",
+    "defaultItemId": "kfc-nozka-kentucky",
+    "options": [
+     {
+      "itemId": "kfc-nozka-kentucky",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "wings",
+    "label": "Hot Wings",
+    "defaultItemId": "kfc-hot-wings",
+    "options": [
+     {
+      "itemId": "kfc-hot-wings",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 2
+   },
+   {
+    "id": "bites",
+    "label": "Bites",
+    "defaultItemId": "kfc-hot-spicy-bites-45g",
+    "options": [
+     {
+      "itemId": "kfc-hot-spicy-bites-45g",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "frytki",
+    "label": "Frytki",
+    "defaultItemId": "kfc-frytki",
+    "options": [
+     {
+      "itemId": "kfc-frytki",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-kubelek-1-classic.png"
+ },
+ {
+  "id": "kfc-kupon-kubelek-1-hot-wings",
+  "brandId": "kfc",
+  "name": "Kubełek dla 1 osoby Hot Wings",
+  "offerType": "coupon",
+  "pricePln": 14.95,
+  "priceNote": "Kupon KFC Polska.",
+  "description": "6x Hot Wings + frytki (min. 80 g).",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Kupony KFC Polska",
+   "url": "https://kfc.pl/kupony",
+   "priceVerifiedBy": "menu"
+  },
+  "slots": [
+   {
+    "id": "wings",
+    "label": "Hot Wings",
+    "defaultItemId": "kfc-hot-wings",
+    "options": [
+     {
+      "itemId": "kfc-hot-wings",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 6
+   },
+   {
+    "id": "frytki",
+    "label": "Frytki",
+    "defaultItemId": "kfc-frytki",
+    "options": [
+     {
+      "itemId": "kfc-frytki",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-kubelek-1-hot-wings.png"
+ },
+ {
+  "id": "kfc-kupon-kubelek-1-hot-shots",
+  "brandId": "kfc",
+  "name": "Kubełek dla 1 osoby Hot Shots",
+  "offerType": "coupon",
+  "pricePln": 14.95,
+  "priceNote": "Kupon KFC Polska.",
+  "description": "Bites (min. 120 g) + frytki (min. 80 g).",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Kupony KFC Polska",
+   "url": "https://kfc.pl/kupony",
+   "priceVerifiedBy": "menu"
+  },
+  "slots": [
+   {
+    "id": "bites",
+    "label": "Bites",
+    "defaultItemId": "kfc-hot-spicy-bites-120g",
+    "options": [
+     {
+      "itemId": "kfc-hot-spicy-bites-120g",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "frytki",
+    "label": "Frytki",
+    "defaultItemId": "kfc-frytki",
+    "options": [
+     {
+      "itemId": "kfc-frytki",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-kubelek-1-hot-shots.png"
+ },
+ {
+  "id": "kfc-kupon-zinger-10",
+  "brandId": "kfc",
+  "name": "Zinger Burger (kupon)",
+  "offerType": "coupon",
+  "pricePln": 10,
+  "priceNote": "Kupon KFC Polska (cena w lokalu 10,00 zł; w dostawie 12,00 zł).",
+  "description": "Zinger Burger za 10 zł w kuponie (regularnie 19,99 zł).",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Kupony KFC Polska",
+   "url": "https://kfc.pl/kupony",
+   "priceVerifiedBy": "menu"
+  },
+  "slots": [
+   {
+    "id": "burger",
+    "label": "Burger",
+    "defaultItemId": "kfc-zinger",
+    "options": [
+     {
+      "itemId": "kfc-zinger",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-zinger-10.png"
+ },
+ {
+  "id": "kfc-kupon-grander-15",
+  "brandId": "kfc",
+  "name": "Grander Burger (kupon)",
+  "offerType": "coupon",
+  "pricePln": 15,
+  "priceNote": "Kupon KFC Polska.",
+  "description": "Grander Burger za 15 zł w kuponie (regularnie 24,99 zł).",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Kupony KFC Polska",
+   "url": "https://kfc.pl/kupony",
+   "priceVerifiedBy": "menu"
+  },
+  "slots": [
+   {
+    "id": "burger",
+    "label": "Burger",
+    "defaultItemId": "kfc-grander",
+    "options": [
+     {
+      "itemId": "kfc-grander",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-grander-15.png"
+ },
+ {
+  "id": "kfc-kupon-twister-twister-gratis",
+  "brandId": "kfc",
+  "name": "Twister + Twister gratis",
+  "offerType": "coupon",
+  "pricePln": 18.99,
+  "priceNote": "Kupon KFC Polska.",
+  "description": "Drugi Twister gratis.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Kupony KFC Polska",
+   "url": "https://kfc.pl/kupony",
+   "priceVerifiedBy": "menu"
+  },
+  "slots": [
+   {
+    "id": "twister",
+    "label": "Twister",
+    "defaultItemId": "kfc-twister-classic",
+    "options": [
+     {
+      "itemId": "kfc-twister-classic",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 2
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-twister-twister-gratis.png"
+ },
+ {
+  "id": "kfc-kupon-2x-longer-shake",
+  "brandId": "kfc",
+  "name": "2x Longer + Shake 180 ml",
+  "offerType": "coupon",
+  "pricePln": 15.0,
+  "priceNote": "Cena kuponu w lokalu (z uwzględnieniem opłaty za kubek).",
+  "description": "Dwa Longery + shake 180 ml (smak dowolny — kcal liczone dla waniliowego).",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Kupony KFC Polska",
+   "url": "https://kfc.pl/kupony",
+   "priceVerifiedBy": "menu"
+  },
+  "slots": [
+   {
+    "id": "longer",
+    "label": "Longer",
+    "defaultItemId": "kfc-longer",
+    "options": [
+     {
+      "itemId": "kfc-longer",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 2
+   },
+   {
+    "id": "shake",
+    "label": "Shake",
+    "defaultItemId": "kfc-shake-waniliowy-180",
+    "options": [
+     {
+      "itemId": "kfc-shake-waniliowy-180",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-2x-longer-shake.png"
+ },
+ {
+  "id": "kfc-kupon-3-hotwings-2-strips-frytki",
+  "brandId": "kfc",
+  "name": "3x Hot Wings + 2x Strips + frytki",
+  "offerType": "coupon",
+  "pricePln": 15,
+  "priceNote": "Kupon KFC Polska.",
+  "description": "3x Hot Wings + 2x Strips + frytki.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Kupony KFC Polska",
+   "url": "https://kfc.pl/kupony",
+   "priceVerifiedBy": "menu"
+  },
+  "slots": [
+   {
+    "id": "wings",
+    "label": "Hot Wings",
+    "defaultItemId": "kfc-hot-wings",
+    "options": [
+     {
+      "itemId": "kfc-hot-wings",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 3
+   },
+   {
+    "id": "strips",
+    "label": "Strips",
+    "defaultItemId": "kfc-hot-spicy-strips",
+    "options": [
+     {
+      "itemId": "kfc-hot-spicy-strips",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 2
+   },
+   {
+    "id": "frytki",
+    "label": "Frytki",
+    "defaultItemId": "kfc-frytki",
+    "options": [
+     {
+      "itemId": "kfc-frytki",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-3-hotwings-2-strips-frytki.png"
+ },
+ {
+  "id": "kfc-kupon-5-strips-frytki",
+  "brandId": "kfc",
+  "name": "5x Strips + frytki",
+  "offerType": "coupon",
+  "pricePln": 20,
+  "priceNote": "Kupon KFC Polska.",
+  "description": "5x Strips + frytki.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Kupony KFC Polska",
+   "url": "https://kfc.pl/kupony",
+   "priceVerifiedBy": "menu"
+  },
+  "slots": [
+   {
+    "id": "strips",
+    "label": "Strips",
+    "defaultItemId": "kfc-hot-spicy-strips",
+    "options": [
+     {
+      "itemId": "kfc-hot-spicy-strips",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 5
+   },
+   {
+    "id": "frytki",
+    "label": "Frytki",
+    "defaultItemId": "kfc-frytki",
+    "options": [
+     {
+      "itemId": "kfc-frytki",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-5-strips-frytki.png"
+ },
+ {
+  "id": "kfc-kupon-zinger-2-frytki-dolewka",
+  "brandId": "kfc",
+  "name": "Zinger + 2x frytki + Wielka Dolewka",
+  "offerType": "coupon",
+  "pricePln": 25.0,
+  "priceNote": "Cena kuponu w lokalu (z uwzględnieniem opłaty za kubek).",
+  "description": "Zinger Burger + dwie duże frytki + Wielka Dolewka.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Kupony KFC Polska",
+   "url": "https://kfc.pl/kupony",
+   "priceVerifiedBy": "menu"
+  },
+  "slots": [
+   {
+    "id": "burger",
+    "label": "Burger",
+    "defaultItemId": "kfc-zinger",
+    "options": [
+     {
+      "itemId": "kfc-zinger",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "frytki",
+    "label": "Frytki",
+    "defaultItemId": "kfc-frytki-duze",
+    "options": [
+     {
+      "itemId": "kfc-frytki-duze",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 2
+   },
+   {
+    "id": "napoj",
+    "label": "Napój",
+    "defaultItemId": "kfc-pepsi-wielka-dolewka",
+    "options": [
+     {
+      "itemId": "kfc-pepsi-wielka-dolewka",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-zinger-2-frytki-dolewka.png"
+ },
+ {
+  "id": "kfc-kupon-2x-kentucky-gold-grander",
+  "brandId": "kfc",
+  "name": "2x Kentucky Gold Grander Burger + 2x frytki",
+  "offerType": "coupon",
+  "pricePln": 40,
+  "priceNote": "Kupon KFC Polska.",
+  "description": "Dwa Grander Kentucky Gold oraz dwie porcje dużych frytek.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Kupony KFC Polska",
+   "url": "https://kfc.pl/kupony",
+   "priceVerifiedBy": "menu"
+  },
+  "slots": [
+   {
+    "id": "burger",
+    "label": "Burger",
+    "defaultItemId": "kfc-grander-kentucky-gold",
+    "options": [
+     {
+      "itemId": "kfc-grander-kentucky-gold",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 2
+   },
+   {
+    "id": "frytki",
+    "label": "Frytki",
+    "defaultItemId": "kfc-frytki-duze",
+    "options": [
+     {
+      "itemId": "kfc-frytki-duze",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 2
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-2x-kentucky-gold-grander.png"
+ },
+ {
+  "id": "kfc-kupon-qurrito-frytki-19",
+  "brandId": "kfc",
+  "name": "Qurrito + Frytki",
+  "offerType": "coupon",
+  "pricePln": 19,
+  "priceNote": "Kupon KFC Polska.",
+  "description": "Qurrito + frytki.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Kupony KFC Polska",
+   "url": "https://kfc.pl/kupony",
+   "priceVerifiedBy": "menu"
+  },
+  "slots": [
+   {
+    "id": "qurrito",
+    "label": "Qurrito",
+    "defaultItemId": "kfc-qurrito",
+    "options": [
+     {
+      "itemId": "kfc-qurrito",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "frytki",
+    "label": "Frytki",
+    "defaultItemId": "kfc-frytki",
+    "options": [
+     {
+      "itemId": "kfc-frytki",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-qurrito-frytki-19.jpg"
+ },
+ {
+  "id": "kfc-kupon-grander-dolewka",
+  "brandId": "kfc",
+  "name": "Grander + Wielka Dolewka",
+  "offerType": "coupon",
+  "pricePln": 22.0,
+  "priceNote": "Cena kuponu w lokalu (z uwzględnieniem opłaty za kubek).",
+  "description": "Grander Burger + Wielka Dolewka.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Kupony KFC Polska",
+   "url": "https://kfc.pl/kupony",
+   "priceVerifiedBy": "menu"
+  },
+  "slots": [
+   {
+    "id": "burger",
+    "label": "Burger",
+    "defaultItemId": "kfc-grander",
+    "options": [
+     {
+      "itemId": "kfc-grander",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "napoj",
+    "label": "Napój",
+    "defaultItemId": "kfc-pepsi-wielka-dolewka",
+    "options": [
+     {
+      "itemId": "kfc-pepsi-wielka-dolewka",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-grander-dolewka.png"
+ },
+ {
+  "id": "kfc-kupon-mega-pocket-dolewka",
+  "brandId": "kfc",
+  "name": "Mega Pocket + Wielka Dolewka",
+  "offerType": "coupon",
+  "pricePln": 24.0,
+  "priceNote": "Cena kuponu w lokalu (z uwzględnieniem opłaty za kubek).",
+  "description": "Mega Pocket + Wielka Dolewka.",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Kupony KFC Polska",
+   "url": "https://kfc.pl/kupony",
+   "priceVerifiedBy": "menu"
+  },
+  "slots": [
+   {
+    "id": "pocket",
+    "label": "Pocket",
+    "defaultItemId": "kfc-mega-pocket",
+    "options": [
+     {
+      "itemId": "kfc-mega-pocket",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "napoj",
+    "label": "Napój",
+    "defaultItemId": "kfc-pepsi-wielka-dolewka",
+    "options": [
+     {
+      "itemId": "kfc-pepsi-wielka-dolewka",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-mega-pocket-dolewka.png"
+ },
+ {
+  "id": "kfc-kupon-3-strips-sos",
+  "brandId": "kfc",
+  "name": "3x Strips + sos",
+  "offerType": "coupon",
+  "pricePln": 12,
+  "priceNote": "Kupon KFC Polska.",
+  "description": "3x Strips + sos (do wyboru).",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Kupony KFC Polska",
+   "url": "https://kfc.pl/kupony",
+   "priceVerifiedBy": "menu"
+  },
+  "slots": [
+   {
+    "id": "strips",
+    "label": "Strips",
+    "defaultItemId": "kfc-hot-spicy-strips",
+    "options": [
+     {
+      "itemId": "kfc-hot-spicy-strips",
+      "priceDeltaPln": 0
+     }
+    ],
+    "quantity": 3
+   },
+   {
+    "id": "sos",
+    "label": "Sos",
+    "defaultItemId": "kfc-sos-kentucky-gold-dip",
+    "options": [
+     {
+      "itemId": "kfc-sos-kentucky-gold-dip",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-3-strips-sos.png"
+ },
+ {
+  "id": "kfc-kupon-twister-shake",
+  "brandId": "kfc",
+  "name": "Twister + Shake 180 ml",
+  "offerType": "coupon",
+  "pricePln": 20.0,
+  "priceNote": "Cena kuponu w lokalu (z uwzględnieniem opłaty za kubek).",
+  "description": "Twister + shake 180 ml (smak dowolny — kcal liczone dla waniliowego).",
+  "addedAt": "2026-11-26",
+  "validUntil": null,
+  "source": {
+   "label": "Kupony KFC Polska",
+   "url": "https://kfc.pl/kupony",
+   "priceVerifiedBy": "menu"
+  },
+  "slots": [
+   {
+    "id": "twister",
+    "label": "Twister",
+    "defaultItemId": "kfc-twister-classic",
+    "options": [
+     {
+      "itemId": "kfc-twister-classic",
+      "priceDeltaPln": 0
+     }
+    ]
+   },
+   {
+    "id": "shake",
+    "label": "Shake",
+    "defaultItemId": "kfc-shake-waniliowy-180",
+    "options": [
+     {
+      "itemId": "kfc-shake-waniliowy-180",
+      "priceDeltaPln": 0
+     }
+    ]
+   }
+  ],
+  "image": "./images/offers/kfc-kupon-twister-shake.png"
+ }
+]
