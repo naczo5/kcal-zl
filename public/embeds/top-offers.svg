@@ -11,11 +11,11 @@
     <circle cx="56" cy="26" r="4.5" fill="#DA291C"/>
     <text x="69" y="24" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" fill="#111318">SuperCombo</text>
     <text x="69" y="40" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#5A6170">McDonald&apos;s • 1315 kcal • 20,00 zł</text>
-    <rect x="378" y="16" width="84" height="20" rx="4" fill="#EEF0F4"/>
-    <text x="420" y="30" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" fill="#344054">Stała oferta</text>
-    <rect x="480" y="29" width="110" height="5" rx="2.5" fill="#ECEEF2"/>
-    <rect x="480" y="29" width="110" height="5" rx="2.5" fill="#D62828"/>
-    <text x="660" y="28" text-anchor="end" font-family="ui-monospace, monospace" font-size="15" font-weight="700" fill="#D62828">65,8 kcal/zł</text>
+    <rect x="350" y="16" width="82" height="20" rx="4" fill="#EEF0F4"/>
+    <text x="391" y="30" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" fill="#344054">Stała oferta</text>
+    <rect x="448" y="24" width="86" height="5" rx="2.5" fill="#ECEEF2"/>
+    <rect x="448" y="24" width="86" height="5" rx="2.5" fill="#D62828"/>
+    <text x="660" y="31" text-anchor="end" font-family="ui-monospace, monospace" font-size="14" font-weight="700" fill="#D62828">65,8 kcal/zł</text>
   </g>
   <g transform="translate(0, 110)">
     <line x1="0" y1="52" x2="680" y2="52" stroke="#E5E7EB" stroke-width="1"/>
@@ -23,11 +23,11 @@
     <circle cx="56" cy="26" r="4.5" fill="#FF6B00"/>
     <text x="69" y="24" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" fill="#111318">Cruncher Deal</text>
     <text x="69" y="40" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#5A6170">Popeyes • 716 kcal • 10,95 zł</text>
-    <rect x="378" y="16" width="84" height="20" rx="4" fill="#EEF0F4"/>
-    <text x="420" y="30" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" fill="#344054">Stała oferta</text>
-    <rect x="480" y="29" width="110" height="5" rx="2.5" fill="#ECEEF2"/>
-    <rect x="480" y="29" width="109" height="5" rx="2.5" fill="#111318"/>
-    <text x="660" y="28" text-anchor="end" font-family="ui-monospace, monospace" font-size="15" font-weight="700" fill="#111318">65,4 kcal/zł</text>
+    <rect x="350" y="16" width="82" height="20" rx="4" fill="#EEF0F4"/>
+    <text x="391" y="30" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" fill="#344054">Stała oferta</text>
+    <rect x="448" y="24" width="86" height="5" rx="2.5" fill="#ECEEF2"/>
+    <rect x="448" y="24" width="86" height="5" rx="2.5" fill="#111318"/>
+    <text x="660" y="31" text-anchor="end" font-family="ui-monospace, monospace" font-size="14" font-weight="700" fill="#111318">65,4 kcal/zł</text>
   </g>
   <g transform="translate(0, 162)">
     <line x1="0" y1="52" x2="680" y2="52" stroke="#E5E7EB" stroke-width="1"/>
@@ -35,11 +35,11 @@
     <circle cx="56" cy="26" r="4.5" fill="#A3080C"/>
     <text x="69" y="24" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" fill="#111318">Kentucky Gold Wrapper + frytki</text>
     <text x="69" y="40" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#5A6170">KFC • 1399 kcal • 22,00 zł</text>
-    <rect x="378" y="16" width="84" height="20" rx="4" fill="#EEFAF8"/>
-    <text x="420" y="30" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" fill="#0F766E">Kupon</text>
-    <rect x="480" y="29" width="110" height="5" rx="2.5" fill="#ECEEF2"/>
-    <rect x="480" y="29" width="106" height="5" rx="2.5" fill="#111318"/>
-    <text x="660" y="28" text-anchor="end" font-family="ui-monospace, monospace" font-size="15" font-weight="700" fill="#111318">63,6 kcal/zł</text>
+    <rect x="350" y="16" width="82" height="20" rx="4" fill="#EEFAF8"/>
+    <text x="391" y="30" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" fill="#0F766E">Kupon</text>
+    <rect x="448" y="24" width="86" height="5" rx="2.5" fill="#ECEEF2"/>
+    <rect x="448" y="24" width="83" height="5" rx="2.5" fill="#111318"/>
+    <text x="660" y="31" text-anchor="end" font-family="ui-monospace, monospace" font-size="14" font-weight="700" fill="#111318">63,6 kcal/zł</text>
   </g>
   <g transform="translate(0, 214)">
     <line x1="0" y1="52" x2="680" y2="52" stroke="#E5E7EB" stroke-width="1"/>
@@ -47,11 +47,11 @@
     <circle cx="56" cy="26" r="4.5" fill="#DA291C"/>
     <text x="69" y="24" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" fill="#111318">2forU®</text>
     <text x="69" y="40" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#5A6170">McDonald&apos;s • 636 kcal • 10,10 zł</text>
-    <rect x="378" y="16" width="84" height="20" rx="4" fill="#EEF0F4"/>
-    <text x="420" y="30" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" fill="#344054">Stała oferta</text>
-    <rect x="480" y="29" width="110" height="5" rx="2.5" fill="#ECEEF2"/>
-    <rect x="480" y="29" width="105" height="5" rx="2.5" fill="#111318"/>
-    <text x="660" y="28" text-anchor="end" font-family="ui-monospace, monospace" font-size="15" font-weight="700" fill="#111318">63,0 kcal/zł</text>
+    <rect x="350" y="16" width="82" height="20" rx="4" fill="#EEF0F4"/>
+    <text x="391" y="30" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" fill="#344054">Stała oferta</text>
+    <rect x="448" y="24" width="86" height="5" rx="2.5" fill="#ECEEF2"/>
+    <rect x="448" y="24" width="82" height="5" rx="2.5" fill="#111318"/>
+    <text x="660" y="31" text-anchor="end" font-family="ui-monospace, monospace" font-size="14" font-weight="700" fill="#111318">63,0 kcal/zł</text>
   </g>
   <g transform="translate(0, 266)">
     <line x1="0" y1="52" x2="680" y2="52" stroke="#E5E7EB" stroke-width="1"/>
@@ -59,11 +59,11 @@
     <circle cx="56" cy="26" r="4.5" fill="#FF6B00"/>
     <text x="69" y="24" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" fill="#111318">Mega Crunch Deal</text>
     <text x="69" y="40" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#5A6170">Popeyes • 1246 kcal • 19,95 zł</text>
-    <rect x="378" y="16" width="84" height="20" rx="4" fill="#EEF0F4"/>
-    <text x="420" y="30" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" fill="#344054">Stała oferta</text>
-    <rect x="480" y="29" width="110" height="5" rx="2.5" fill="#ECEEF2"/>
-    <rect x="480" y="29" width="104" height="5" rx="2.5" fill="#111318"/>
-    <text x="660" y="28" text-anchor="end" font-family="ui-monospace, monospace" font-size="15" font-weight="700" fill="#111318">62,5 kcal/zł</text>
+    <rect x="350" y="16" width="82" height="20" rx="4" fill="#EEF0F4"/>
+    <text x="391" y="30" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" fill="#344054">Stała oferta</text>
+    <rect x="448" y="24" width="86" height="5" rx="2.5" fill="#ECEEF2"/>
+    <rect x="448" y="24" width="82" height="5" rx="2.5" fill="#111318"/>
+    <text x="660" y="31" text-anchor="end" font-family="ui-monospace, monospace" font-size="14" font-weight="700" fill="#111318">62,5 kcal/zł</text>
   </g>
   <text x="20" y="340" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#5A6170">Dane z oficjalnych tabel wartości odżywczych McDonald's PL, Popeyes PL i KFC PL</text>
   <text x="660" y="340" text-anchor="end" font-family="ui-monospace, monospace" font-size="11" fill="#5A6170">kcal-zl</text>

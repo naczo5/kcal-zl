@@ -251,7 +251,8 @@ const rowsSvg = topRows
   .map((entry, idx) => {
     const y = headerH + idx * rowH;
     const isFirst = idx === 0;
-    const barW = Math.max(12, Math.round((entry.ratio / maxRatio) * 110));
+    const barMaxW = 86;
+    const barW = Math.max(12, Math.round((entry.ratio / maxRatio) * barMaxW));
     const typeLabel = entry.offer.offerType === 'coupon' ? 'Kupon' : 'Stała oferta';
     const typeBg = entry.offer.offerType === 'coupon' ? '#EEFAF8' : '#EEF0F4';
     const typeColor = entry.offer.offerType === 'coupon' ? '#0F766E' : '#344054';
@@ -263,11 +264,11 @@ const rowsSvg = topRows
     <circle cx="56" cy="26" r="4.5" fill="${escapeXml(entry.brand?.accentColor ?? '#374151')}"/>
     <text x="69" y="24" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="700" fill="#111318">${escapeXml(entry.offer.name)}</text>
     <text x="69" y="40" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#5A6170">${escapeXml(entry.brand?.shortName ?? entry.offer.brandId)} • ${entry.kcal} kcal • ${fmtNum(entry.pricePln, 2)} zł</text>
-    <rect x="378" y="16" width="84" height="20" rx="4" fill="${typeBg}"/>
-    <text x="420" y="30" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" fill="${typeColor}">${typeLabel}</text>
-    <rect x="480" y="29" width="110" height="5" rx="2.5" fill="#ECEEF2"/>
-    <rect x="480" y="29" width="${barW}" height="5" rx="2.5" fill="${isFirst ? '#D62828' : '#111318'}"/>
-    <text x="660" y="28" text-anchor="end" font-family="ui-monospace, monospace" font-size="15" font-weight="700" fill="${isFirst ? '#D62828' : '#111318'}">${fmtNum(entry.ratio, 1)} kcal/zł</text>
+    <rect x="350" y="16" width="82" height="20" rx="4" fill="${typeBg}"/>
+    <text x="391" y="30" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" fill="${typeColor}">${typeLabel}</text>
+    <rect x="448" y="24" width="${barMaxW}" height="5" rx="2.5" fill="#ECEEF2"/>
+    <rect x="448" y="24" width="${barW}" height="5" rx="2.5" fill="${isFirst ? '#D62828' : '#111318'}"/>
+    <text x="660" y="31" text-anchor="end" font-family="ui-monospace, monospace" font-size="14" font-weight="700" fill="${isFirst ? '#D62828' : '#111318'}">${fmtNum(entry.ratio, 1)} kcal/zł</text>
   </g>`;
   })
   .join('');
