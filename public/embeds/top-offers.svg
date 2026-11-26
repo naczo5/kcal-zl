@@ -3,7 +3,7 @@
   <path d="M1 11C1 5.477 5.477 1 11 1H669C674.523 1 679 5.477 679 11V58H1V11Z" fill="#111318"/>
   <circle cx="24" cy="29" r="5" fill="#D62828"/>
   <text x="38" y="34" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">kcal/zł — Top 5 ofert fast food (maks. konfiguracja)</text>
-  <text x="660" y="34" text-anchor="end" font-family="ui-monospace, monospace" font-size="12" fill="#CBD5E1">48 ofert w bazie</text>
+  <text x="660" y="34" text-anchor="end" font-family="ui-monospace, monospace" font-size="12" fill="#CBD5E1">35 ofert w bazie</text>
   
   <g transform="translate(0, 58)">
     <line x1="0" y1="52" x2="680" y2="52" stroke="#E5E7EB" stroke-width="1"/>
